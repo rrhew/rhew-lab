@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Atmospheric Biogeochemistry Laboratory # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://rhewlab.netlify.app' # Website URL
+copyright: '© {year} RC Rhew' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
