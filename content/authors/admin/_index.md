@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Robert Rhew
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UC Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Trace gas biogeochemistry
+- Air pollution and its causes
+- Ecosystem function
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Earth Sciences (Geochemistry/ Marine Chemistry)
+    institution: Scripps Institution of Oceanography, UC San Diego
+    year: 2001
+  - course: Graduate Diploma in Resource and Environmental Management
+    institution: Australian National University
+    year: 1994
+  - course: BA in Earth and Planetary Sciences
+    institution: Harvard University
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:rrhew@berkeley.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ucberkeley
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Z92opqQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rrhew
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Robert Rhew is a professor of trace gas biogeochemistry at the University of California, Berkeley. His research interests include the sources and sinks of gases involved with stratospheric ozone depletion, radiative forcing and air pollution. He leads the Atmospheric Biogeochemistry group in the Department of Geography, which conducts field and laboratory based measurements of trace gas fluxes and studies of the environmental and biological controls on those fluxes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Rhew is also affiliated with the Department of Environmental Science, Policy & Management.  
