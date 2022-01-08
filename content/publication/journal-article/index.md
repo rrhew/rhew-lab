@@ -27,7 +27,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*Geophysical Research Letters, 48, e2021GL093811"
+publication: "*Geophysical Research Letters*, 48, e2021GL093811"
 summary: "n this study, the first in situ static-chamber measurements were
   conducted at coastal Antarctica tundra for CHCl3 fluxes, which showed that
   CHCl3 was naturally emitted from the Antarctic tundra at 35 ± 27 nmol m−2 d−1,
