@@ -4,8 +4,7 @@ date: 2022-01-09
 image:
   focal_point: "top"
 ---
-
-Yi Jiao's paper in Nature Communications appears today.
+Today, Nature Communications published Yi's paper on copper and methyl halides.  
 
 <!--more-->
 
@@ -35,3 +34,4 @@ Robin Kim and Julien Vollering were undergraduate researchers who conducted work
 as part of their senior theses.  Julian Deventer was a post-doctoral researcher 
 in our laboratory, and Wanying Zhang was a visiting graduate student to our laboratory.
 
+Bordeaux mixture on grapes [Photo credit: CC BY-SA 3.0] (https://commons.wikimedia.org/w/index.php?curid=16303007)
