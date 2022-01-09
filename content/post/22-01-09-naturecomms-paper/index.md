@@ -4,7 +4,7 @@ date: 2022-01-09
 image:
   focal_point: "top"
 ---
-Today, Nature Communications published Yi's paper on copper and methyl halides.  
+Yi's paper on copper and methyl halides was published today
 
 <!--more-->
 
