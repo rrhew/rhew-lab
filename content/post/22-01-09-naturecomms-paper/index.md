@@ -4,7 +4,7 @@ date: 2022-01-09
 image:
   focal_point: "top"
 ---
-(1/9/22) Yi's paper on copper and methyl halides was published today
+(1/10/22) Yi's paper on copper and methyl halides was published today
 
 <!--more-->
 
