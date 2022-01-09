@@ -2,7 +2,7 @@
 title: Yi Jiao receives his Ph.D.
 date: 2021-06-30
 image:
-  focal_point: "right"
+  focal_point: "top"
 ---
 
 Congratulations to Dr. Yi Jiao!
