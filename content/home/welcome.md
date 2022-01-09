@@ -1,27 +1,44 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
 
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: 
-  Welcome
-hero_media: multiscale.jpg
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 15
+
+title: Rhew page via Hugo
+subtitle:
+
 design:
+  columns: "1"
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    gradient_angle: 180
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+    image: Kansas.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---
-<br>
 
-**Atmospheric Biogeochemistry (ABC) Lab**
-PI: Professor Robert Rhew
+Welcome to the **Atmospheric Biogeochemistry (ABC) Laboratory** at UC Berkeley
+Professor Robert Rhew
+
+[Explore similar templates](https://wowchemy.com/templates/)
+
+**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+
+**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+
+{{% callout note %}}
+This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+
+Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+{{% /callout %}}
