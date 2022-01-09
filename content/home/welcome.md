@@ -10,7 +10,7 @@ title: |
   Atmospheric 
   Biogeochemistry
   Lab
-hero_media: welcome.jpg
+hero_media: Kansas.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
