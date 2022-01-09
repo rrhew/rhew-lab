@@ -25,5 +25,5 @@ In addition, Yi was an award winning Graduate Student Instructor, the Lab Safety
 After a brief stint as a post-doctoral researcher in our laboratory, he has moved on to a post-doctoral research position in the outstanding research team 
 of Professor Riikka Rinnan at the University of Copenhagen, Denmark, Department of Biology. 
 
-He will be sorely missed and we wish him the best for a promising career in atmospheric sciences and biogeochemistry!
+Congratulations Yi!
 
