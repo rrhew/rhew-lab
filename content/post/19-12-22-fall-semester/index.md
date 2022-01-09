@@ -5,7 +5,7 @@ image:
   focal_point: "top"
 ---
 
-Summary of Fall 2019
+(12/19) Summary of Fall 2019
 <!--more-->
 
 **Aug 28 2019:  First day of classes Fall 2019**
