@@ -1,18 +1,18 @@
 ---
-title: Yi's Nature Communications paper on copper catalyzed emissions of methyl halides
+title: Nature Communications paper on copper catalyzed emissions of methyl halides
 date: 2022-01-09
 image:
   focal_point: "top"
 ---
 
-Yi Jiao's publication in Nature Communications appears today.
+Yi Jiao's paper in Nature Communications appears today.
 
 <!--more-->
 
-Yi Jiao's publication in Nature Communications 
+Yi Jiao's study 
 ('Application of copper(II)-based chemicals induces CH3Br and CH3Cl 
 emissions from soil and seawater', by Yi Jiao, Wanying Zhang, Jae Yun Robin Kim, 
-Malte Julian Deventer, Julien Vollering, and Robert C. Rhew) 
+Malte Julian Deventer, Julien Vollering, and Robert C. Rhew, *Nature Communications*, 2022) 
 shows that application of copper chemicals to agricultural soils 
 and seawater induces production of CH3Br and CH3Cl, 
 major ozone depleting compounds. Cu compounds are fungicides and 
