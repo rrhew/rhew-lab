@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: 
-  Atmospheric Biogeochemistry Lab
+  Welcome
 hero_media: multiscale.jpg
 design:
   background:
@@ -21,7 +21,6 @@ design:
   css_style:
   css_class:
 ---
-
 <br>
-
-The **Rhew Lab** has been a center of innovative research, teaching, and practice since its founding in 2003.
+The **Atmospheric Biogeochemistry (ABC) Lab**
+PI: Professor Robert Rhew
