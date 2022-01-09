@@ -1,10 +1,10 @@
 ---
-title: (1/22) Nature Communications paper on copper catalyzed emissions of methyl halides
+title: Nature Communications paper on copper catalyzed emissions of methyl halides
 date: 2022-01-09
 image:
   focal_point: "top"
 ---
-Yi's paper on copper and methyl halides was published today
+(1/9/22) Yi's paper on copper and methyl halides was published today
 
 <!--more-->
 
