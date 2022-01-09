@@ -32,17 +32,17 @@ of environmentally important trace gases, determine the biological and
 environmental controls on those fluxes, identify the biochemical and abiotic 
 mechanisms involved, and assess impacts of land use and climate change on emissions.
 
-[Department of Geography](https://https://geography.berkeley.edu)
-[Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
-[University of California, Berkeley](https://www.berkeley.edu)
-[Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
-[Sagehen Creek Field Station](https://sageneh.ucnrs.org)
-[Central Sierra Snow Lab](https://cssl.berkeley.edu)
+- [Department of Geography](https://https://geography.berkeley.edu)
+- [Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
+- [University of California, Berkeley](https://www.berkeley.edu)
+- [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
+- [Sagehen Creek Field Station](https://sageneh.ucnrs.org)
+- [Central Sierra Snow Lab](https://cssl.berkeley.edu)
 
 **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
 {{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+If you are interested in joining our laboratory: 
+Undergraduates should apply through the URAP (L&S) or SPUR (CNR) programs.  
+Graduate students should contact Professor Rhew directly
 {{% /callout %}}
