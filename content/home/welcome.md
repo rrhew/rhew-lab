@@ -22,5 +22,5 @@ design:
   css_class:
 ---
 <br>
-The **Atmospheric Biogeochemistry (ABC) Lab**
+**Atmospheric Biogeochemistry (ABC) Lab**
 PI: Professor Robert Rhew
