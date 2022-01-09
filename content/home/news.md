@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Latest News
-subtitle:
+subtitle: Recent postings
 
 content:
   count: 5
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 2
   columns: "3"
 ---
