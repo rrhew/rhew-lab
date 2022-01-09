@@ -1,5 +1,4 @@
 ---
-# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
@@ -28,11 +27,17 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the **Atmospheric Biogeochemistry (ABC) Laboratory** at UC Berkeley
+In our **Trace Gas Biogeochemistry Laboratory** we quantify sources and sinks 
+of environmentally important trace gases, determine the biological and 
+environmental controls on those fluxes, identify the biochemical and abiotic 
+mechanisms involved, and assess impacts of land use and climate change on emissions.
 
-[Department of Geography](https://https://geography.berkeley.edu/)
-
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+[Department of Geography](https://https://geography.berkeley.edu)
+[Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
+[University of California, Berkeley](https://www.berkeley.edu)
+[Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
+[Sagehen Creek Field Station](https://sageneh.ucnrs.org)
+[Central Sierra Snow Lab](https://cssl.berkeley.edu)
 
 **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
