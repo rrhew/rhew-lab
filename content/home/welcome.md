@@ -17,7 +17,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: Kansas.jpg
+    image: multiscale.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
@@ -39,10 +39,7 @@ mechanisms involved, and assess impacts of land use and climate change on emissi
 - [Sagehen Creek Field Station](https://sageneh.ucnrs.org)
 - [Central Sierra Snow Lab](https://cssl.berkeley.edu)
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
-
 {{% callout note %}}
-If you are interested in joining our laboratory: 
-Undergraduates should apply through the URAP (L&S) or SPUR (CNR) programs.  
-Graduate students should contact Professor Rhew directly
+Interested in joining our laboratory? 
+Undergraduates should apply through the URAP (L&S) or SPUR (CNR) programs. Prospective graduate students please email.
 {{% /callout %}}
