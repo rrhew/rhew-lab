@@ -9,7 +9,7 @@ title: null
 subtitle: null
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: labsafetyaward.jpg
     image_darken: 0
