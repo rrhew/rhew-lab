@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Rhew page via Hugo
+title: Professor Robert Rhew
 subtitle:
 
 design:
@@ -29,13 +29,11 @@ design:
 ---
 
 Welcome to the **Atmospheric Biogeochemistry (ABC) Laboratory** at UC Berkeley
-Professor Robert Rhew
 
-[Explore similar templates](https://wowchemy.com/templates/)
+[Department of Geography](https://wowchemy.com/templates/)
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
-
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+#**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+# **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
 
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
