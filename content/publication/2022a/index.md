@@ -35,9 +35,18 @@ featured: false
 tags:
   - Source Themes
 projects: []
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false  
+  
 date: 2021-01-10T00:00:00Z  
 url_slides: ""
 publishDate: 2021-01-10T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
