@@ -2,6 +2,9 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 
+# Order that this section appears on the page.
+weight: 85
+
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
