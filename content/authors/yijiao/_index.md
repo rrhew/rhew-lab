@@ -10,6 +10,8 @@ superuser: false
 
 role: graduate student; post-doctoral researcher
 
+avatar_filename: jiaoyi.jpg
+
 # Organizations/Affiliations
 organizations:
   - name: University of Copenhagen
