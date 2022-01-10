@@ -18,7 +18,7 @@ authors:
   - J-Y. Kim
   - M.J. Deventer
   - J. Vollering
-  - and R.C. Rhew
+  - R.C. Rhew
 
 publication: "*Nature Communications*"
 summary: "The widespread application of copper(II) pesticides in agriculture and the discharge of anthropogenic copper(II) 
@@ -39,9 +39,9 @@ image:
   focal_point: ""
   preview_only: false  
   
-date: 2021-01-10T00:00:00Z  
+date: 2022-01-10T00:00:00Z  
 url_slides: ""
-publishDate: 2021-01-10T00:00:00Z
+publishDate: 2022-01-10T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
