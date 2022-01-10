@@ -34,9 +34,9 @@ featured: false
 tags:
   - Source Themes
 projects: []
-date: 2021-01-10  
+date: 2021-01-10T00:00:00Z  
 url_slides: ""
-publishDate: 2021-01-10
+publishDate: 2021-01-10T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
