@@ -36,9 +36,7 @@ education:
       year: 2014
 email: ""
 superuser: false
-user_groups:
-  - Researchers
-  - Grad Students
+user_groups: ["Researchers", "Grad Students"]
 ---
 
 Yi Jiao is a Postdoctoral Researcher in the Department of Biology at the University of Copenhagen at Denmark
