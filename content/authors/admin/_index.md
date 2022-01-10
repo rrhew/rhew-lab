@@ -37,7 +37,7 @@ education:
 email: ""
 superuser: true
 authors:
-  - Robert Rhew
+  - admin
 user_groups: ["Principal Investigators", "Visitors"]
 highlight_name: false
 ---
