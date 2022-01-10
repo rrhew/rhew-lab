@@ -17,8 +17,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Zhang
-  - W.
+  - Zhang W.
   - Y. Jiao*
   - R. Zhu
   - R.C. Rhew
@@ -47,9 +46,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2021-08-28T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-08-28T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
