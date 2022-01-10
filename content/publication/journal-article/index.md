@@ -17,12 +17,12 @@ url_pdf: https://doi.org/10.1029/2021GL093811
 publication_types:
   - "2"
 authors:
-  - Zhang W.
+  - W. Zhang
   - Y. Jiao
   - R. Zhu
   - R.C. Rhew
   - B. Sun
-  - and H. Dai
+  - H. Dai
 author_notes:
   - Equal contribution
   - Equal contribution
