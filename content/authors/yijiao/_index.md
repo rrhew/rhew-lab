@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: graduat student; post-doctoral researcher
+role: graduate student; post-doctoral researcher
 
 avatar_filename: YiJiao.jpg
 
