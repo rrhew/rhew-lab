@@ -1,22 +1,47 @@
 ---
 title: Yi Jiao
-role: Grad Students
+
+# Username (this should match the folder name)
+authors:
+- yijiao
+
+# Is this the primary user of the site?
+superuser: false
+
+role: graduat student; post-doctoral researcher
+
 avatar_filename: YiJiao.jpg
+
+# Organizations/Affiliations
 organizations:
   - name: University of Copenhagen
     url: ""
-superuser: false
-author:
-  - yijiao
+
+# Short bio (displayed in user profile at end of posts)
 bio: Yi Jiao completed his Ph.D. in 2021 from UC Berkeley
+
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - trace gas biogeochemistry
+  - atmospheric science
+  - biosphere-atmosphere gas exchange
+  
+education:
+  courses:
+    - course: PhD in Geography (Earth System SCience
+      institution: University of California, Berkeley
+      year: 2021
+    - course: BEng in Earth and Space Sciences
+      institution: University of Science & Technology of China
+      year: 2014
+      
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto: jiaoyi@berkeley.edu
+    link: mailto:jiaoyi@berkeley.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JiaoyiJoey
@@ -26,17 +51,12 @@ social:
   - icon: website
     icon_pack: fab
     link: https://sites.google.com/view/yi-jiao-homepage/home
-education:
-  courses:
-    - course: PhD in Geography (Earth System SCience
-      institution: University of California, Berkeley
-      year: 2021
-    - course: BEng in Earth and Space Sciences
-      institution: University of Science & Technology of China
-      year: 2014
-email: ""
-superuser: false
-user_groups: "Grad Students"
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Graduate Students
 ---
 
 Yi Jiao is a Postdoctoral Researcher in the Department of Biology at the University of Copenhagen at Denmark
