@@ -6,7 +6,7 @@ organizations:
   - name: University of Copenhagen
     url: ""
 superuser: false
-authors:
+author:
   - yijiao
 bio: Yi Jiao completed his Ph.D. in 2021 from UC Berkeley
 interests:
