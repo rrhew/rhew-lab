@@ -57,4 +57,4 @@ url_code: ""
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary Information [here](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GL093811&file=2021GL093811-sup-0001-Supporting+Information+SI-S01.pdf).
