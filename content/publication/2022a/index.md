@@ -13,7 +13,7 @@ url_pdf: https://doi.org/10.1038/s41467-021-27779-3
 publication_types:
   - "2"
 authors:
-  - Jiao Y.
+  - Y. Jiao
   - W. Zhang
   - J-Y. Kim
   - M.J. Deventer
