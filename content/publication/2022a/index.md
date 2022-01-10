@@ -13,13 +13,12 @@ url_pdf: https://doi.org/10.1038/s41467-021-27779-3
 publication_types:
   - "2"
 authors:
-  - Jiao, Y.
+  - Jiao Y.
   - W. Zhang
   - J-Y. Kim
   - M.J. Deventer
   - J. Vollering
   - and R.C. Rhew
-author_notes:
 
 publication: "*Nature Communications*"
 summary: "The widespread application of copper(II) pesticides in agriculture and the discharge of anthropogenic copper(II) 
