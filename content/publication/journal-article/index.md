@@ -18,7 +18,7 @@ publication_types:
   - "2"
 authors:
   - Zhang W.
-  - Y. Jiao*
+  - Y. Jiao
   - R. Zhu
   - R.C. Rhew
   - B. Sun
