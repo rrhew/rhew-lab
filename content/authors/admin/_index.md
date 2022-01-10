@@ -4,10 +4,15 @@ title: Robert Rhew
 # Is this the primary user of the site?
 superuser: true
 
+authors:
+  - admin
+
 # Role/position/tagline
 role: Associate Professor
 avatar_filename: avatar.png
+
 bio: Professor Rhew is the Principal Investigator of the UC Berkeley Atmospheric Biogeochemistry Lab
+
 interests:
   - Trace gas biogeochemistry
   - Air pollution and its causes
@@ -15,7 +20,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:rrhew@berkeley.edu
+    link: 'mailto:rrhew@berkeley.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ucberkeley
@@ -40,13 +45,14 @@ education:
       institution: Harvard University
       year: 1992
 email: ""
-superuser: true
-authors:
-  - admin
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+  
 user_groups: 
 -Principal Investigators
 -Visitors
-highlight_name: false
+
 ---
 
 Robert Rhew is a professor of trace gas biogeochemistry at the University of California, Berkeley. His research interests include the sources and sinks of gases involved with stratospheric ozone depletion, radiative forcing and air pollution. He leads the Atmospheric Biogeochemistry group in the Department of Geography, which conducts field and laboratory based measurements of trace gas fluxes and studies of the environmental and biological controls on those fluxes.
