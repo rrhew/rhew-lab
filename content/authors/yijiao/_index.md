@@ -56,7 +56,6 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Student
 ---
 
 Yi Jiao is a Postdoctoral Researcher in the Department of Biology at the University of Copenhagen at Denmark
