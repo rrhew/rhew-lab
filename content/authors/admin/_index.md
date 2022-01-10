@@ -38,6 +38,7 @@ email: ""
 superuser: true
 authors:
   - admin
+  - yijiao
 user_groups: ["Principal Investigators", "Visitors"]
 highlight_name: false
 ---
