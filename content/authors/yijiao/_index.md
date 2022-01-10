@@ -1,6 +1,6 @@
 ---
 title: Yi Jiao
-role: Graduate Student ---> Postdoctoral Researcher
+role: Graduate Student
 avatar_filename: yijiao.jpg
 organizations:
   - name: University of Copenhagen
