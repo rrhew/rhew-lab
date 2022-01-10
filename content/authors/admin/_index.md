@@ -2,8 +2,7 @@
 title: Robert Rhew
 role: Associate Professor
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Professor Rhew is the Principal Investigator of the UC Berkeley Atmospheric Biogeochemistry Lab
 interests:
   - Trace gas biogeochemistry
   - Air pollution and its causes
