@@ -35,6 +35,7 @@ education:
       institution: University of Science & Technology of China
       year: 2014
 email: ""
+superuser: false
 user_groups:
   - Researchers
   - Grad Students
