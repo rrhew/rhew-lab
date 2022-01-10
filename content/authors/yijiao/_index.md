@@ -10,8 +10,6 @@ superuser: false
 
 role: graduate student; post-doctoral researcher
 
-avatar_filename: YiJiao.jpg
-
 # Organizations/Affiliations
 organizations:
   - name: University of Copenhagen
