@@ -1,7 +1,7 @@
 ---
 title: Yi Jiao
 role: Graduate Student
-avatar_filename: yijiao.jpg
+avatar_filename: YiJiao.jpg
 organizations:
   - name: University of Copenhagen
     url: ""
