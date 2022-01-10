@@ -1,12 +1,12 @@
 ---
 abstract: Methyl bromide (CH3Br) and methyl chloride (CH3Cl) are major carriers of atmospheric bromine and chlorine, respectively, 
-which can catalyze stratospheric ozone depletion. However, in our current understanding, there are missing sources associated with 
-these two species. Here we investigate the effect of copper(II) on CH3Br and CH3Cl production from soil, seawater and model organic 
-compounds - catechol (benzene-1,2-diol) and guaiacol (2-methoxyphenol). We show that copper sulfate (CuSO4) enhances CH3Br and CH3Cl 
-production from soil and seawater, and it may be further amplified in conjunction with hydrogen peroxide (H2O2) or solar radiation. 
-This represents an abiotic production pathway of CH3Br and CH3Cl perturbed by anthropogenic application of copper(II)-based chemicals. 
-Hence, we suggest that the widespread application of copper(II) pesticides in agriculture and the discharge of anthropogenic copper(II) 
-to the oceans may account for part of the missing sources of CH3Br and CH3Cl, and thereby contribute to stratospheric halogen load.
+  which can catalyze stratospheric ozone depletion. However, in our current understanding, there are missing sources associated with 
+  these two species. Here we investigate the effect of copper(II) on CH3Br and CH3Cl production from soil, seawater and model organic 
+  compounds - catechol (benzene-1,2-diol) and guaiacol (2-methoxyphenol). We show that copper sulfate (CuSO4) enhances CH3Br and CH3Cl 
+  production from soil and seawater, and it may be further amplified in conjunction with hydrogen peroxide (H2O2) or solar radiation. 
+  This represents an abiotic production pathway of CH3Br and CH3Cl perturbed by anthropogenic application of copper(II)-based chemicals. 
+  Hence, we suggest that the widespread application of copper(II) pesticides in agriculture and the discharge of anthropogenic copper(II) 
+  to the oceans may account for part of the missing sources of CH3Br and CH3Cl, and thereby contribute to stratospheric halogen load.
 
 slides: null
 url_pdf: https://doi.org/10.1038/s41467-021-27779-3
