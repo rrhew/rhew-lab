@@ -36,8 +36,7 @@ education:
       year: 1992
 email: ""
 superuser: true
-user_groups:
-  - Principal Investigators
+user_groups: ["Principal Investigators", "Visitors"]
 highlight_name: false
 ---
 
