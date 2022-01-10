@@ -3,9 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 
-# Activate this widget? true/false
-active: true
-
 # This file represents a page section.
 headless: true
 
@@ -30,4 +27,5 @@ design:
   show_role: true
   show_social: true
 ---
+
 Lab Group 2
