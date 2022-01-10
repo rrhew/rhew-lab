@@ -1,5 +1,10 @@
 ---
 title: Robert Rhew
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
 role: Associate Professor
 avatar_filename: avatar.png
 bio: Professor Rhew is the Principal Investigator of the UC Berkeley Atmospheric Biogeochemistry Lab
