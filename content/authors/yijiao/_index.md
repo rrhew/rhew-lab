@@ -27,7 +27,7 @@ interests:
   
 education:
   courses:
-    - course: PhD in Geography (Earth System SCience
+    - course: PhD in Geography (Earth System Science)
       institution: University of California, Berkeley
       year: 2021
     - course: BEng in Earth and Space Sciences
@@ -58,4 +58,4 @@ user_groups:
 - Researchers
 ---
 
-Yi Jiao [website](https://sites.google.com/view/yi-jiao-homepage/home) is a Postdoctoral Researcher in the Department of Biology at the University of Copenhagen at Denmark.  
+Yi Jiao is a Postdoctoral Researcher in the Department of Biology at the University of Copenhagen at Denmark.  [Yi's website](https://sites.google.com/view/yi-jiao-homepage/home)
