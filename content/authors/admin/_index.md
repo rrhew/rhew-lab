@@ -43,7 +43,9 @@ email: ""
 superuser: true
 authors:
   - admin
-user_groups: ["Principal Investigators", "Visitors"]
+user_groups: 
+-Principal Investigators
+-Visitors
 highlight_name: false
 ---
 
