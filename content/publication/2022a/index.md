@@ -35,7 +35,7 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: "Image credit: [**Wikipedia**](https://commons.wikimedia.org/w/index.php?curid=16303007)"
   focal_point: ""
   preview_only: false  
   
