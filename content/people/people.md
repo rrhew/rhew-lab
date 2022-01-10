@@ -28,4 +28,4 @@ design:
   show_social: true
 ---
 
-Lab Group 2
+(to be updated)
