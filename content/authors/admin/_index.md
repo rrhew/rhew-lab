@@ -36,6 +36,8 @@ education:
       year: 1992
 email: ""
 superuser: true
+authors:
+  - Robert Rhew
 user_groups: ["Principal Investigators", "Visitors"]
 highlight_name: false
 ---
