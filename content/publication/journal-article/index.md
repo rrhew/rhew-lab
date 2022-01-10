@@ -13,7 +13,7 @@ abstract: In this study, the first in situ static-chamber measurements were
   soils showed the maximum CHCl3 emission at 4°C. The strength of this CHCl3
   source is also expected to change in response to Antarctic warming.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1029/2021GL093811
 publication_types:
   - "2"
 authors:
