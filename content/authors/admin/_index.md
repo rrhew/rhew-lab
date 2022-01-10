@@ -38,9 +38,8 @@ email: ""
 superuser: true
 authors:
   - admin
-  - yijiao
 user_groups: ["Principal Investigators", "Visitors"]
-highlight_name: false
+highlight_name: true
 ---
 
 Robert Rhew is a professor of trace gas biogeochemistry at the University of California, Berkeley. His research interests include the sources and sinks of gases involved with stratospheric ozone depletion, radiative forcing and air pollution. He leads the Atmospheric Biogeochemistry group in the Department of Geography, which conducts field and laboratory based measurements of trace gas fluxes and studies of the environmental and biological controls on those fluxes.
