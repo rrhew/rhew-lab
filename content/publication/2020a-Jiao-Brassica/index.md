@@ -28,7 +28,7 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: [**Wikipedia**](https://commons.wikimedia.org/w/index.php?curid=16303007)"
+  caption: "Image credit: [**Wikipedia**](https://commons.wikimedia.org/wiki/File:Field_in_K%C3%A4rk%C3%B6l%C3%A4.jpg)"
   focal_point: ""
   preview_only: false  
   
