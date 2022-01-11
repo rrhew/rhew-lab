@@ -26,7 +26,7 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: **ES&T**"
+  caption: "Image credit: **W. Zhang**"
   focal_point: ""
   preview_only: false  
   
