@@ -6,7 +6,6 @@ publication_types:
   - "2"
 authors:
   - R.C. Rhew
-author_notes:
 
 publication: "*Moonshine Ink* (Tahoe-Truckee independent newspaper)"
 
