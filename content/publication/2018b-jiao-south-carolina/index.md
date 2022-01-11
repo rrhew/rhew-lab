@@ -20,7 +20,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Halocarbon emissions from a degraded forested wetland in coastal South Carolina impacted by sea level rise
-doi: "10.1021/acsearthspacechem.8b00033 "
+doi: "pubs.acs.org/doi/10.1021/acsearthspacechem.8b00033 "
 featured: false
 tags:
   - Source Themes
