@@ -25,7 +25,8 @@ authors:
   - G. Lerner
   - E. Tas
   
-publication: "*Atmos. Chem. Phys*"
+publication: "*Atmos. Chem. Phys*, **19**, 7667-7690, https://doi.org/10.5194/acp-19-7667-2019"
+
 summary: "our findings point to the strong emission potential of a suite of VHOCs from saline soils and salt lakes and call for additional studies of emission rates and mechanisms of VHOCs from saline soils and salt lakes. "
 url_dataset: ""
 url_project: ""
