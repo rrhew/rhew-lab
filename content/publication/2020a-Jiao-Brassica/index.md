@@ -3,7 +3,7 @@ abstract: Global budgets of methyl halides are not balanced between currently id
   as the second largest terrestrial source of CH3Br, extrapolated from laboratory-based incubations and limited field measurements. This study analyzes   the CH3Br budget from rapeseed (Brassica napus “Empire”), using field-based life cycle measurements, yielding a globally scaled emission rate of 2.8 ± 0.7 Gg year−1. Though this verifies that rapeseed is a significant global source, it is just half of the previous estimation, even after accounting for the doubling of global annual rapeseed production since then. The ozone-depleting potential of rapeseed is further sustained through CH3Cl and CH3I emissions, which were measured for the first time and scaled to 5.3 ± 1.3 and 4.0 ± 0.8 Gg year−1 globally.
 
 slides: null
-url_pdf: https://doi.org/10.1038/s41467-021-27779-3
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL089373
 publication_types:
   - "2"
 authors:
