@@ -11,7 +11,8 @@ authors:
   - R. Zhu
   - R.C. Rhew
 
-publication: "*Environmental Science & Technology*"
+publication: "*Environmental Science & Technology*, **54**, 13354-13363, https://dx.doi.org/10.1021/acs.est.0c04257"
+"
 summary: "Antarctic tundra soil acted as a net sink for CH3Cl and CH3Br"
 url_dataset: ""
 url_project: ""
