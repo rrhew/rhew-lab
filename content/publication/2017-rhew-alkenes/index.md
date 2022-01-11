@@ -19,6 +19,10 @@ authors:
   - J.N. Smith
   - A.B. Guenther
   - J.A. de Gouw
+
+author_notes:
+  - Equal contribution
+  - Equal contribution
   
 publication: "*Atmos. Chem. Phys*, **17**, 13417-13438, doi: https://doi.org/10.5194/acp-17-13417-2017 "
 summary: "Here we report net ecosystem fluxes of light alkenes and isoprene from a semiarid ponderosa pine forest in the Rocky Mountains of Colorado, USA using the relaxed eddy accumulation (REA) technique during the summer of 2014.  The light alkenes contribute significantly to the overall biogenic source of reactive hydrocarbons."
