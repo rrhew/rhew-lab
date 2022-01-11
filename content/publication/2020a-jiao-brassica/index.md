@@ -14,7 +14,7 @@ authors:
   - W. Zhang
   - R.C. Rhew
 
-publication: "*Geophysical Research Letters*"
+publication: "*Geophysical Research Letters*, **47**, e2020GL089373"
 summary: "This study quantifies methyl halide emissions from cultivated rapeseed (Brassica napus, cultivar: Empire), based on life cycle measurements and normalized to seed production. "
 url_dataset: ""
 url_project: ""
