@@ -20,7 +20,7 @@ authors:
   - J. Vollering
   - R.C. Rhew
 
-publication: "*Nature Communications*", **13**, 47, https://doi.org/10.1038/s41467-021-27779-3
+publication: "*Nature Communications*, **13**, 47, https://doi.org/10.1038/s41467-021-27779-3"
 summary: "The widespread application of copper(II) pesticides in agriculture and the discharge of anthropogenic copper(II) 
 to the oceans may account for part of the missing sources of CH3Br and CH3Cl. "
 url_dataset: ""
