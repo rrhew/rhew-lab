@@ -39,3 +39,7 @@ publishDate: 2019-06-07T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
