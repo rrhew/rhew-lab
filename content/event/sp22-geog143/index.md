@@ -1,7 +1,7 @@
 ---
 title: (Spring 2022) Geog 143 - Global Change Biogeochemistry
 
-event: Geog 143 - Global Change Biogeochemistry
+event: Tu/Thu 9:30 - 11 a.m.
 event_url: https://example.org
 
 location: McCone Hall
