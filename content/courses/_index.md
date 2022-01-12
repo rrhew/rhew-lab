@@ -9,7 +9,7 @@ title: Courses Offered
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-# header:
-#  caption: ""
-#  image: "mccone-room.jpg"
+ header:
+  caption: ""
+  image: "mccone-room.jpg"
 ---
