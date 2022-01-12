@@ -1,5 +1,4 @@
 ---
-type: widget_page
 title: Courses Offered
 
 # View.
@@ -9,7 +8,7 @@ title: Courses Offered
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
- header:
+header:
   caption: ""
   image: "mccone-room.jpg"
 ---
