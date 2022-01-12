@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: (Spring 2022) Geog 143 - Global Change Biogeochemistry
 
 event: Geog 143 - Global Change Biogeochemistry
 event_url: https://example.org
