@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Courses Offered
 
 # View.
 #   1 = List
@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "mccone-room.jpg"
 ---
