@@ -17,7 +17,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: multiscale.jpg
+    image: mccone-room.jpg
     image_darken: 0.7
     image_parallax: true
     image_position: center
