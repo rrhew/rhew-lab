@@ -1,5 +1,5 @@
 ---
-title: *Nature Communications* paper links copper & stratospheric ozone
+title: Nature Communications paper links copper & stratospheric ozone
 date: 2022-01-09
 image:
   focal_point: "top"
