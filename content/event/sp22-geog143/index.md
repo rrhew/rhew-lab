@@ -55,7 +55,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-### Note for Spring 2022: Classes in January will meet *remotely* via Zoom rather than in person owing to the current situation with the Omicron virus. 
+### Note for Spring 2022: Classes in January will meet *remotely* via Zoom rather than in person owing to the current situation with the omicron wave of covid-19. 
 
 - **Prior offerings** Sp2005, Sp2006, Sp2009, Sp2013, Fa2014, Sp2017, Fa2019
 - **Optional Textbook** [Principles of Terrestrial Ecosystem Ecology] (https://link.springer.com/book/10.1007/978-1-4419-9504-9), 2nd edition, F. Stuart Chapin III, Pamela Matson, Peter Vitousek. Springer, 2012.  
