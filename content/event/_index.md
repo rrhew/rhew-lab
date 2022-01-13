@@ -11,5 +11,6 @@ view: 2
 header:
   caption: ""
   image: "mccone-room.jpg"
-  focal_point: "bottom"
+  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
+  focal_point: "top"
 ---
