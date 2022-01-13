@@ -4,7 +4,7 @@ date: 2022-01-09
 image:
   focal_point: "top"
 ---
-(1/10/22) Yi's paper on copper and methyl halides was published today.  [UCB press release](https://news.berkeley.edu/2022/01/13/copper-based-chemicals-may-be-contributing-to-ozone-depletion/). 
+(Jan 10, 2022) Yi's paper on copper and methyl halides was published today.  [UCB press release](https://news.berkeley.edu/2022/01/13/copper-based-chemicals-may-be-contributing-to-ozone-depletion/). 
 
 <!--more-->
 
