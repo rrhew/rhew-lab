@@ -1,5 +1,5 @@
 ---
-title: Nature Communications paper on copper catalyzed production of methyl halides
+title: *Nature Communications*: linking copper and stratospheric ozone depletion
 date: 2022-01-09
 image:
   focal_point: "top"
