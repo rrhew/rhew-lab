@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: lab-safety-award
+widget_id: mccone
 headless: true
 weight: 30
 title: null
@@ -12,7 +12,7 @@ design:
   view: compact
   columns: '2'
   background:
-    image: labsafetyaward.jpg
+    image: mccone-room.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
