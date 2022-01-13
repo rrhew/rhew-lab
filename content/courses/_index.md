@@ -12,4 +12,4 @@ header:
   caption: ""
   <img src="mccone-room.jpg" alt="drawing" width="200"/>
 ---
-  image: "mccone-room.jpg"
+
