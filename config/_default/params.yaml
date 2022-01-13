@@ -9,7 +9,8 @@ theme: earth
 day_night: false
 # font: native
 # font: classic
-font: minimal
+# font: minimal
+font: mr robot
 font_size: M
 
 # SEO
