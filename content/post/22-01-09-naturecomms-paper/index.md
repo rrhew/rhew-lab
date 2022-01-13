@@ -4,11 +4,10 @@ date: 2022-01-09
 image:
   focal_point: "top"
 ---
-(1/10/22) Yi's paper on copper and methyl halides was published today
+(1/10/22) Yi's paper on copper and methyl halides was published today.  [UCB press release](https://news.berkeley.edu/2022/01/13/copper-based-chemicals-may-be-contributing-to-ozone-depletion/). 
 
 <!--more-->
 
-[UCB press release](https://news.berkeley.edu/2022/01/13/copper-based-chemicals-may-be-contributing-to-ozone-depletion/)
 Yi Jiao's study ('Application of copper(II)-based chemicals induces CH3Br and CH3Cl 
 emissions from soil and seawater', by Yi Jiao, Wanying Zhang, Jae Yun Robin Kim, 
 Malte Julian Deventer, Julien Vollering, and Robert C. Rhew, *Nature Communications*, 2022) 
