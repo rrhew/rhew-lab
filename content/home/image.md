@@ -16,7 +16,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: contain   #  Options are `cover` (default), `contain`, or `actual` size.
     text_color_light: true
   spacing:
     padding:
