@@ -8,8 +8,8 @@ image:
 
 <!--more-->
 
-Yi Jiao's study 
-('Application of copper(II)-based chemicals induces CH3Br and CH3Cl 
+[UCB press release](https://news.berkeley.edu/2022/01/13/copper-based-chemicals-may-be-contributing-to-ozone-depletion/)
+Yi Jiao's study ('Application of copper(II)-based chemicals induces CH3Br and CH3Cl 
 emissions from soil and seawater', by Yi Jiao, Wanying Zhang, Jae Yun Robin Kim, 
 Malte Julian Deventer, Julien Vollering, and Robert C. Rhew, *Nature Communications*, 2022) 
 shows that application of copper chemicals to agricultural soils 
@@ -19,7 +19,7 @@ pesticides that are used extensively in both conventional and organic
 agriculture.  With the widespread use of copper in the environment, 
 this potentially growing impact should be considered when predicting 
 future halogen load and ozone recovery.  
-The full paper will be available here with open access 
+The full paper is available here with open access 
 – https://doi.org/10.1038/s41467-021-27779-3.
 
 This is an important paper that puts a spotlight on an unexpected 
