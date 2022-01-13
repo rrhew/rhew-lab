@@ -46,4 +46,4 @@ user_groups:
 - Visitors
 ---
 
-Wanying Zhang is a PhD graduate student at USTC and was a visiting graduate student briefly in 2018, returning for a more extended research plan from 2019-2020.  
+Wanying Zhang is a PhD graduate student at USTC and was a visiting graduate student from 2019-2020.  
