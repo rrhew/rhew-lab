@@ -3,7 +3,7 @@ title: Metta Nicholson completes senior honors thesis
 date: 2021-05-04
 image:
   focal_point: "top"
-  caption: "Metta at Sherman Island (Baldocchi tower)"
+  caption: "Metta at Sherman Island"
   preview_only: false  
 ---
 
