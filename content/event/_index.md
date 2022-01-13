@@ -10,7 +10,6 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "mccone-room.jpg"
-  image_size = actual  #  Options are `cover` (default), `contain`, or `actual` size.
-  focal_point: "top"
+  image: ""
+  focal_point: ""
 ---
