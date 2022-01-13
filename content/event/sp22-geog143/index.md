@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'students analyzing soils at Oxford Tract'
   focal_point: Right
 
 url_code: ""
@@ -56,10 +56,12 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+Note for Spring 2022: Classes in January will meet *remotely* via Zoom rather than in person owing to the current situation with the Omicron virus
+<br> 
+This class has been offered previously in the following semesters
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+- **Prior offerings** Sp2005, Sp2006, Sp2009, Sp2013, Fa2014, Sp2017, Fa2019
+- **Textbooks** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Required Textbook ** [Biogeochemistry: An analysis of global change (4th ed)](https://www.elsevier.com/books/biogeochemistry/schlesinger/978-0-12-814608-8).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page.
