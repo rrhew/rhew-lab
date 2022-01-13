@@ -12,7 +12,7 @@ image:
 
 **Aug 28 2019:  First day of classes Fall 2019**
 
-Rob teaching Global Change Biogeochemistry (Geog 143).  This semester features field work at Oxford Tract, new OOI database widgets, a new lecture on air-sea gas exchange, and a new lecture on the changing Arctic biogeochemistry.  It also featured a couple disruptive external events, with preventative PG&E power shutdowns to avert potential wildfire events. 
+Rob teaching [Global Change Biogeochemistry](https://rhewlab.netlify.app/event/sp22-geog143/) (Geog 143).  This semester features field work at Oxford Tract, new OOI database widgets, a new lecture on air-sea gas exchange, and a new lecture on the changing Arctic biogeochemistry.  It also featured a couple disruptive external events, with preventative PG&E power shutdowns to avert potential wildfire events. 
 
 **Aug 31-Sept 2, 2019:  GETH weekend at Blodgett Forest**
 
