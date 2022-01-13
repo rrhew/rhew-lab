@@ -14,7 +14,7 @@ design:
   background:
     image: spring-1705-labgroup.jpg
     image_darken: 0
-    image_parallax: false
+    image_parallax: true  # Use a fun parallax-like fixed background effect?
     image_position: center
     image_size: contain   #  Options are `cover` (default), `contain`, or `actual` size.
     text_color_light: true
