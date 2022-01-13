@@ -31,13 +31,13 @@ interests:
 education:
   courses:
     - course: post-doc 
-	  institution: University of Minnesota, Twin Cities
+      institution: University of Minnesota, Twin Cities
       year: 2019
-	- course: post-doc 
-	  institution: University of California, Berkeley
+    - course: post-doc 
+      institution: University of California, Berkeley
       year: 2017
-	- course: PhD 
-	  institution: University of Münster, Germany
+    - course: PhD
+      institution: University of Münster, Germany
       year: 2014
     - course: BSc in Landscape Ecology
       institution: University of Münster, Germany
