@@ -1,5 +1,5 @@
 ---
-title: ABC Lab wins one of the inaugural Lab Safety Awards
+title: ABC Lab wins an inaugural Lab Safety Award
 date: 2015-11-13
 image:
   focal_point: "top"
