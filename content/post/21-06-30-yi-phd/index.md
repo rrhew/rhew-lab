@@ -5,7 +5,7 @@ image:
   focal_point: "top"
 ---
 
-(June 2021) Congratulations to Dr. Yi Jiao! 
+(June 2021) Congratulations to Dr. Jiao on his completed Ph.D. thesis "The Breathing of Halogenated Volatile Organic Compounds (HVOCs) from Human-impacted Ecosystems" 
 <!--more-->
 
 Yi Jiao received his Ph.D. this month from the University of California at Berkeley.  
