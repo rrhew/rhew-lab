@@ -60,4 +60,4 @@ projects:
 - **Prior offerings** Sp2005, Sp2006, Sp2009, Sp2013, Fa2014, Sp2017, Fa2019
 - **Optional Textbook** [Principles of Terrestrial Ecosystem Ecology](https://link.springer.com/book/10.1007/978-1-4419-9504-9), 2nd edition, F. Stuart Chapin III, Pamela Matson, Peter Vitousek. Springer, 2012.  
 - **Required Textbook** [Biogeochemistry: An analysis of global change (4th ed)](https://www.elsevier.com/books/biogeochemistry/schlesinger/978-0-12-814608-8), W.H. Schlesinger, Emily Bernhardt, Elsevier, 2020.  
-- Additional readings will be posted on bcourses.
+- **Additional readings** will be posted on bcourses.
