@@ -27,8 +27,8 @@ interests:
 education:
   courses:
    - course: BSc Molecular Environmental Biology
-      institution: University of California, Berkeley
-      year: 2021
+     institution: University of California, Berkeley
+     year: 2021
       
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
