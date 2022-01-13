@@ -5,7 +5,7 @@ image:
   focal_point: "top"
 ---
 
-(6/21) Congratulations to Dr. Yi Jiao!
+(June 2021) Congratulations to Dr. Yi Jiao! 
 <!--more-->
 
 Yi Jiao received his Ph.D. this month from the University of California at Berkeley.  
