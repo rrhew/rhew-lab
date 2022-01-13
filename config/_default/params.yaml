@@ -7,7 +7,8 @@
 
 theme: earth
 day_night: false
-font: native
+# font: native
+font:  classic
 font_size: M
 
 # SEO
