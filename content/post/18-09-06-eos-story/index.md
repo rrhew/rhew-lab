@@ -1,5 +1,5 @@
 ---
-title: Deventer paper featured in EOS (AUG-DEC 2019)
+title: Julian Deventer's JGR paper featured in EOS
 date: 2018-09-06
 image:
   focal_point: "top"
@@ -7,7 +7,7 @@ image:
   preview_only: false  
 ---
 
-(Sept 6, 2018) Julian's paper featured in EOS
+(Sept 6, 2018) EOS covers Julian's recent paper on ecosystem-scale methyl halide emissions from a coastal salt marsh, and the implications for stratospheric ozone
 <!--more-->
 
 [LINK TO EOS ARTICLE](https://eos.org/research-spotlights/budgeting-ozone-depleting-emissions-from-coastal-tidal-marshes)
