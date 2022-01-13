@@ -13,7 +13,9 @@ address:
   country: United States
 
 summary: (Spring 2022)- GEOG 143 - **Global Change Biogeochemistry**
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "We often wonder what makes Earth habitable (e.g., suitable climate, chemical composition, presence of water), but how does our global environment *maintain* habitability?  What makes our planet sustainable?  In particular, how does **life** on this planet affect and regulate the chemical environment that in turn allows life to continue and not perish?  Understanding the biological and chemical processes that regulate the environment is essential to answering this question.  And answering this question will help us understand how humans have been altering the chemistry of the world, with ramifications for other life, present and future.  This is the essence of biogeochemistry. 
+
+In this class, we will **explore the imprint that biota (including humans) have on the chemistry of the atmosphere, oceans, and lithosphere**.  And we will learn HOW we can measure key biogeochemical processes, which may be largely invisible to the human eye, but are critically important in controlling exchange of chemicals between different reservoirs."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
