@@ -3,6 +3,8 @@ title: FALL SEMESTER (AUG-DEC 2019)
 date: 2019-12-22
 image:
   focal_point: "top"
+  caption: "2nd annual Baird-fest"
+  preview_only: false  
 ---
 
 (12/19) Summary of Fall 2019
