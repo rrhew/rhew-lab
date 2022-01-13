@@ -10,7 +10,8 @@ day_night: false
 # font: native
 # font: classic
 # font: minimal
-font: mr robot
+# font: mr robot
+font: rose
 font_size: M
 
 # SEO
