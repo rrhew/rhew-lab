@@ -3,7 +3,7 @@ title: FALL SEMESTER (AUG-DEC 2019)
 date: 2019-12-22
 image:
   focal_point: "top"
-  caption: "2nd annual Baird-fest"
+  caption: "2nd annual Baird-fest, Sagehen Creek Field Station"
   preview_only: false  
 ---
 
