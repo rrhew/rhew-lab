@@ -4,7 +4,7 @@ title: (Fall 2021) Geog 40 - Introduction to Earth System Science
 event: Tu/Thu 11 a.m. - 12:30 ap.m.
 # event_url: https://example.org
 
-location: *in person* McCone Hall
+location: McCone Hall
 address:
   street: UC Berkeley
   city: Berkeley
