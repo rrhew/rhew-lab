@@ -19,7 +19,7 @@ font_size: M
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: Our Research Lab
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -27,21 +27,21 @@ twitter: ''
 email: rrhew@berkeley.edu
 phone: no phone
 address:
-  street: 508 McCone Hall, Department of Geography
+  street: mail to- 508 McCone Hall, Department of Geography
   city: Berkeley
   region: CA
-  postcode: '94720'
+  postcode: '94720-4740'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Take stairs or elevator to the 5th floor
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
+  latitude: '37.874175'  #  37°52'27.03"N
+  longitude: '-122.25975'  # 122°15'35.10"W
+# directions: Take stairs or elevator to the 5th floor
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+#contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
