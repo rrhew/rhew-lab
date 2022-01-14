@@ -14,7 +14,7 @@ header:
   image: "sagehen-field.jpg"
 ---
 
-# GENERAL FIELD STATION LINKS
+## GENERAL FIELD STATION LINKS
 
 [Natural Reserve System (NRS)](https://ucnrs.org/):  University of California’s network of field stations and reserves 
 
@@ -24,12 +24,10 @@ header:
 
 [AmeriFlux network](https://ameriflux.lbl.gov/):  community of sites and scientists measuring carbon, water and energy fluxes across Americas 
 
-
-# SAGEHEN CREEK FIELD STATION
-## Station Director:  [Dr. Ash Zemenick](http://www.ashzemenick.com/).  
+## SAGEHEN CREEK FIELD STATION
+### Station Director:  [Dr. Ash Zemenick](http://www.ashzemenick.com/).  
 
 [Sagehen Creek Field Station](https://sagehen.ucnrs.org/):  Main Website
-
 
 [Sagehen Creek Facebook Site](https://www.facebook.com/sagehen.creek/)
 
@@ -40,9 +38,9 @@ header:
 [Sagehen Blog till 2021](http://sagehen.blogspot.com/)
 
 
-# CENTRAL SIERRA SNOW LAB
+## CENTRAL SIERRA SNOW LAB
 
-## Station Manager:  Dr. Andrew Schwartz 
+### Station Manager:  Dr. Andrew Schwartz 
 
 [Central Sierra Snow Lab](https://cssl.berkeley.edu/): Main Website, with Updated Snow Information
 
@@ -50,14 +48,14 @@ header:
 
 [VCR Office page on Central Sierra Snow Lab](https://vcresearch.berkeley.edu/research-unit/central-sierra-snow-lab)
 
-# CHICKERING AMERICAN RIVER RESERVE
+## CHICKERING AMERICAN RIVER RESERVE
 [VCR Office page on Chickering American River Reserve](https://vcresearch.berkeley.edu/research-unit/chickering-american-river-reserve):
 This is a long-term conservation easement with no research facilities on site.  Seasonal day use.
 
-# ONION CREEK EXPERIMENTAL FOREST
+## ONION CREEK EXPERIMENTAL FOREST
 [USFS Pacific Southwest Research Station site]https://www.fs.fed.us/psw/ef/onion_creek/
 
-# NORTH FORK ASSOCIATION LANDS
+## NORTH FORK ASSOCIATION LANDS
 
 [iNaturalist site](https://www.inaturalist.org/places/north-fork-american-river-ca-us)
 
