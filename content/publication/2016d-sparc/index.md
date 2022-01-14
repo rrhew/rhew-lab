@@ -1,23 +1,5 @@
 ---
-abstract: The Montreal Protocol (MP) controls the production and consumption of carbon tetrachloride
-(CCl4 or CTC) and other ozone-depleting substances (ODSs) for emissive uses. CCl4 is
-a major ODS, accounting for about 12% of the globally averaged inorganic chlorine and
-bromine in the stratosphere, compared to 14% for CFC-12 in 2012.
-In spite of the MP controls, there are large ongoing emissions of CCl4 into the atmosphere.
-Estimates of emissions from various techniques ought to yield similar numbers. However,
-the recent WMO/UNEP Scientific Assessment of Ozone Depletion estimated
-a 2007-2012 CCl4 bottom-up emission of 1-4 Gg/year (1-4 kilotonnes/year), based on
-country-by-country reports to UNEP, and a global top-down emissions estimate of 57 Gg/
-year, based on atmospheric measurements. This 54 Gg/year difference has not been
-explained...  These new CCl4 emissions estimates from the workshop make considerable progress
-toward closing the emissions discrepancy. The new industrial bottom-up emissions
-estimate (15 Gg/year total) includes emissions from chloromethanes plants (13 Gg/year)
-and feedstock fugitive emissions (2 Gg/year). When combined with legacy emissions and
-unreported inadvertent emissions, this could be up to 25 Gg/year. Top-down emissions
-estimates are-  global 40 (25-55) Gg/year, gradient 30 (25-35) Gg/year, and regional 21
-(14-28) Gg/year. While the new bottom-up value is still less than the aggregated top-down
-values, these estimates reconcile the CCl4 budget discrepancy when considered at the
-edges of their uncertainties.
+abstract: CCl4 is a major ODS, accounting for about 12% of the globally averaged inorganic chlorine and bromine in the stratosphere, compared to 14% for CFC-12 in 2012. In spite of the MP controls, there are large ongoing emissions of CCl4 into the atmosphere. Estimates of emissions from various techniques ought to yield similar numbers. However, the recent WMO-UNEP Scientific Assessment of Ozone Depletion estimated a 2007-2012 CCl4 bottom-up emission of 1-4 Gg per year (1-4 kilotonnes per year), based on country-by-country reports to UNEP, and a global top-down emissions estimate of 57 Gg per year, based on atmospheric measurements. This 54 Gg per year difference has not been explained.
 
 slides: null
 url_pdf: https://www.sparc-climate.org/publications/sparc-reports/sparc-report-no7
