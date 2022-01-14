@@ -28,9 +28,9 @@ design:
 ---
 
 Our **Atmospheric (Trace gas) Biogeochemistry Laboratory** quantifies sources and sinks 
-of environmentally important trace gases, determine the biological and 
-environmental controls on those fluxes, identify the biochemical and abiotic 
-mechanisms involved, and assess impacts of land use and climate change on emissions.
+of environmentally important trace gases, determines the biological and 
+environmental controls on those fluxes, identifies the biochemical and abiotic 
+mechanisms involved, and assesses impacts of land use and climate change on emissions.
 
 - [Department of Geography](https://geography.berkeley.edu)
 - [Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
