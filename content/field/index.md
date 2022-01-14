@@ -9,7 +9,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
-header: Central Sierra Field Stations
+header:  
   caption: ""
   image: ""
 ---
