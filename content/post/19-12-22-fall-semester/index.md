@@ -17,7 +17,7 @@ Prof. Rhew's course, [Global Change Biogeochemistry](https://rhewlab.netlify.app
 **Aug 31-Sept 2, 2019:  GETH weekend at Blodgett Forest**
 The Global Environmental Theme House hosted its first weekend trip to Blodgett Forest, coordinated by the Theme Program staff and Prof. Kate O’Neill (ESPM). 
 
-**Welcome new URAP students**: Thee new undergraduate researchers have joined the lab this fall: Metta Nicholson, Phoebe Gross and Sang Hyun Ma. They join our returning group of researchers: Ryan, Dre, Flora and Cooper!  Welcome!!!
+**Welcome new URAP students**: Thee new undergraduate researchers have joined the lab this fall: Metta Nicholson, Phoebe Gross and Sang Hyun Ma. They join our returning group of researchers: Ryan, Dre, Flora and Cooper. Welcome!
 
 **Sept 28-29, 2019.  Baird Graduate awards annual presentations at Sagehen Creek Field Station** Sagehen Creek Field Station was proud to host the 2nd annual Baird-fest, celebrating the graduate student research supported by the Carol Baird Graduate Student Award for Field Research. (see photo above)
 
