@@ -55,7 +55,7 @@ toward closing the emissions discrepancy. The new industrial bottom-up emissions
 estimate (15 Gg/year total) includes emissions from chloromethanes plants (13 Gg/year)
 and feedstock fugitive emissions (2 Gg/year). When combined with legacy emissions and
 unreported inadvertent emissions, this could be up to 25 Gg/year. Top-down emissions
-estimates are: global 40 (25-55) Gg/year, gradient 30 (25-35) Gg/year, and regional 21
+estimates are-  global 40 (25-55) Gg/year, gradient 30 (25-35) Gg/year, and regional 21
 (14-28) Gg/year. While the new bottom-up value is still less than the aggregated top-down
 values, these estimates reconcile the CCl4 budget discrepancy when considered at the
 edges of their uncertainties.
