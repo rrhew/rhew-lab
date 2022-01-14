@@ -27,7 +27,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Our **A**tmospheric **B**iogeo**c**hemistry Laboratory (ABC Lab) conducts trace gas biogeochemistry
+Our **Atmospheric **Biogeochemistry Laboratory** conducts trace gas biogeochemistry
 research. We quantify sources and sinks 
 of environmentally important trace gases, determine the biological and 
 environmental controls on those fluxes, identify the biochemical and abiotic 
