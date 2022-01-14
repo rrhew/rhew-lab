@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'bears wear masks'
+  caption: 'bears'
   focal_point: Right
 
 url_code: ""
