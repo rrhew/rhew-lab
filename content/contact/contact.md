@@ -29,7 +29,7 @@ design:
   columns: '1'
 ---
 
-**Principal Investigator:** Professor Robert Rhew  
+**Principal Investigator:** Professor Robert Rhew (he/him)
 
 **Established:** 2003 
 
