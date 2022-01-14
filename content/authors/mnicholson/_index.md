@@ -41,4 +41,4 @@ user_groups:
 - Undergraduate
 ---
 
-Metta joined the ABC lab as part of the URAP Program, and followed up as a Haas scholar for her senior honors thesis research. 
+Metta joined the Atmospheric Biogeochemistry lab as part of the URAP Program, and followed up as a Haas scholar for her senior honors thesis research. 
