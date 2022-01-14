@@ -16,9 +16,9 @@ main:
   - name: Teaching
     url: event
     weight: 50
-#  - name: Courses
-#    url: courses  # changed
-#    weight: 60
+  - name: Field Sites
+    url: field  # changed
+    weight: 60
   - name: About
     url: contact   
     weight: 70
