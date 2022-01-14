@@ -27,8 +27,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Our **Atmospheric **Biogeochemistry Laboratory** conducts trace gas biogeochemistry
-research. We quantify sources and sinks 
+Our **Atmospheric (Trace gas) Biogeochemistry Laboratory** quantifies sources and sinks 
 of environmentally important trace gases, determine the biological and 
 environmental controls on those fluxes, identify the biochemical and abiotic 
 mechanisms involved, and assess impacts of land use and climate change on emissions.
