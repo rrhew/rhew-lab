@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'credit: NASA'
+  caption: 'credit: [NASA](https://visibleearth.nasa.gov/images/57723/the-blue-marble/57725l)'
   focal_point: Right
 
 url_code: ""
