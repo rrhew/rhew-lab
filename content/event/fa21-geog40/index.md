@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'bears'
+  caption: 'credit: NASA'
   focal_point: Right
 
 url_code: ""
