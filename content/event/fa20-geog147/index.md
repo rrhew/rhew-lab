@@ -55,6 +55,8 @@ projects:
 ---
 ### Note for Fall 2020: All classes will be remote, via Zoom. 
 
+### April 2021 update:  Emily Weiss Recognized for [Extraordinary Teaching in Extraordinary Times](https://www.lawrencehallofscience.org/news/recognized-for-extraordinary-teaching-in-extraordinary-times/) for this class 
+
 - **Prior offerings** Fa2013, Fa2014, Fa2015, Fa2016, Fa2017, Fa2018, Fa2020
 - **Rotating team of instructors, including:**
 - **Lawrence Hall of Science Instructors and Curriculum Developers** Catherine Halversen, Emily Weiss, Lynn Tran and Sarah Pedemonte
