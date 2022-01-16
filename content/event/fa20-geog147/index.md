@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'credit: [undsci.berkeley.edu](https://undsci.berkeley.edu/article/scienceflowchart)'
+  caption: 'credit: Lawrence Hall of Science'
   focal_point: Right
 
 url_code: ""
