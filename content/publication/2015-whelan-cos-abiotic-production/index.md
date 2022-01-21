@@ -34,6 +34,4 @@ url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
-This work was supported by the NSF EAR/GEO program and the Martin Foundation
-{{% /callout %}}
+We would like to thank S. Biraud for sample collection, M. Torn, U. Seibt, K. Maseyk, J.E. Campbell, and J. Berry for excellent suggestions, A. Kornfeld for the light intensity measurement, and C. Harth, J. Mühle, and R. Weiss for standard calibration. This work was supported by the NSF EAR/GEO program and the Martin Foundation. Data presented in this work can be found in the UC3 archival system Merritt data repository, at http://n2t.net/ark:/13030/m51g217t, with doi:10.6071/H8RN35SM.
