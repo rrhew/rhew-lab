@@ -37,4 +37,6 @@ url_poster: ""
 url_code: ""
 ---
 {{% callout note %}}
-The authors would like to thank the Natural Science Foundation (grants EAR-1529927 and EAR-1530375) for financial support.{{% /callout %}}
+Supported by Natural Science Foundation (grants EAR-1529927 and EAR-1530375){{% /callout %}}
+
+The authors would like to thank the Natural Science Foundation (grants EAR-1529927 and EAR-1530375) for financial support. The authors are also grateful to Samuel Lin, Wenchen Liu for assistance on the access to the field, Jun-Jian Wang, Dennis Zellmann, David Miller and Hunter Robinson for the assistance on fieldwork, and Jerrold Acdan, Rory French, Bernard Koh, Anya Mikheicheva and Connor Shingai for assistance on laboratory analysis. The manuscript is greatly improved by incorporating the constructive comments and suggestions from three anonymous reviewers, who are hereby warmly appreciated. This work is technical contribution No. 6699 of the Clemson University Experiment Station.
