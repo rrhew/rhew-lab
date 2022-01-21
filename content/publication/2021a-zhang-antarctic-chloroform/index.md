@@ -52,9 +52,9 @@ publishDate: 2021-08-28T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
-This work was funded by National Natural Science Foundation of China (No. 41776190; 41976220), National Key Research and Development Program
-of China (No. 2020YFA0608501) and Strategic Priority Research Program of Chinese Academy of Sciences (No. XDB40010200){{% /callout %}}
+Supplementary Information [here](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GL093811&file=2021GL093811-sup-0001-Supporting+Information+SI-S01.pdf).{{% /callout %}}
 
-Supplementary Information [here](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GL093811&file=2021GL093811-sup-0001-Supporting+Information+SI-S01.pdf).
+Antarctic work supported by National Natural Science Foundation of China (No. 41776190; 41976220), National Key Research and Development Program
+of China (No. 2020YFA0608501) and Strategic Priority Research Program of Chinese Academy of Sciences (No. XDB40010200)
+
