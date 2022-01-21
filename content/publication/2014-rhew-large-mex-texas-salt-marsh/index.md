@@ -36,7 +36,7 @@ url_code: ""
 ---
 
 {{% callout note %}}
-The Supplement related to this article is available [online here](doi:10.5194/bg-11-6427-2014-supplement)
+The Supplement related to this article is available [online here](https://bg.copernicus.org/articles/11/6427/2014/bg-11-6427-2014-supplement.pdf)
 {{% /callout %}}
 
 The authors thank F. Ernst, K. Dunton, I.-N. Kim and T. W. Kim (UTMSI) and Y.-T. Chen (UCB) for field support; S. Manley (CSU-LB) for data comparisons; the Bass Company and A. Nuñez (Texas General Land Office) for field site access and coordination. Research was supported by UCB, UT Austin, and the Schweppe Endowment at UTMSI. This is the University of Texas Marine Science Institute Contribution No. 1681.
