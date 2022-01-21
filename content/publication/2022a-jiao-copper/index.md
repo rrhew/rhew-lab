@@ -47,5 +47,4 @@ url_code: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+This work was supported by National Science Foundation (EAR-1530375) and University of California Natural Reserves{{% /callout %}}
