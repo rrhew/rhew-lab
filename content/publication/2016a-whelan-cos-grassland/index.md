@@ -33,3 +33,8 @@ publishDate: 2016-04-21T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+{{% callout note %}}
+[Electronic supplementary material](https://link.springer.com/article/10.1007%2Fs10533-016-0207-7#Sec20)
+{{% /callout %}}
+
+We thank the California State Parks Service for site access; J. Chalfant, M. Schulz, C. Lawrence, J. Rhim, L. Ledesma, J. Kim, K. Barnash, J.E. Campbell, and T. Bhattacharya for field assistance; C. Lewis for suggestions on experimental design; W. Silver for sample processing support; M. Berkelhammer for data sharing; J. Muhle and R. Weiss for standard calibration; and A. Goldstein, R. Amundsen, E. Brzostek, and 2 anonymous reviewers for manuscript feedback. This work was supported by the Martin Foundation, the NSF-EAR Grant Number 0819972, and NSF-AGS Grant Number 1433257. Data presented in this work can be found in the UC3 archival system Merritt data repository.
