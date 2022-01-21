@@ -48,3 +48,8 @@ publishDate: 2017-11-10T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+{{% callout note %}}
+The Supplement related to this article is available online at https://doi.org/10.5194/acp-17-13417-2017-supplement
+{{% /callout %}}
+
+We thank the USDA Forest Service and Steve Alton for access, facilities and support at MEFO; Stephen Shertz and Steve Gabbard for research support at NCAR; Alicia Cowart for cartography support (Fig. 1); Allen Goldstein for valuable advice and feedback; Sarah Knox and Cove Sturtevant for support with the ANN model; and Benjamin Miller and Bill Kuster for GC support. Robert C. Rhew thanks CIRES/NOAA and NCAR for their visiting fellows programs. Luis Martinez thanks the NOAA Hollings undergraduate scholarship program. This research project was supported primarily by NSF Atmospheric Chemistry. MEFO is supported by the US Forest Service and NCAR, and NCAR is supported by the NSF.
