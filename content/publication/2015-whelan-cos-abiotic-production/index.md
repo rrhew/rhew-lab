@@ -23,7 +23,7 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Wheat Fields Southern Great Plains[**Image courtesy of the U.S. Department of Energy Atmospheric Radiation Measurement (ARM) user facility**](https://www.flickr.com/photos/armgov/4794395238)"
+  caption: "Wheat Fields Southern Great Plains [**Image courtesy of the U.S. Department of Energy Atmospheric Radiation Measurement (ARM) user facility**](https://www.flickr.com/photos/armgov/4794395238)"
   focal_point: ""
   preview_only: false  
   
