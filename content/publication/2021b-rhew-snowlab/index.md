@@ -33,6 +33,6 @@ url_code: ""
 ---
 
 {{% callout note %}}
-Not a peer-reviewed publication
+Guest writer contribution
 {{% /callout %}}
 
