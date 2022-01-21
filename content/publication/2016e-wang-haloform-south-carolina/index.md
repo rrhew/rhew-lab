@@ -35,3 +35,4 @@ publishDate: 2016-02-29T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+Jun-Jian Wang thanks the China Scholarship Council (project number CSC[2011]3010) for financial support. We appreciate the valuable comments from Dr Alexander Ruecker at Clemson University. We thank Dr Vijay Vulava at College of Charleston and Dr Wayne Chao at Clemson University for help on halide measurement.We thank R. Zhu, S. Shen, J. Abad, P. Stow, A. Yu, Y. Zhou and S. Nagalingam for assistance with the GC-MS measurements and R. Weiss and B. Hall for gas calibration standards. This material is based on work supported by National Institute of Food and Agriculture–US Department of Agriculture (grant number SC-1700489), National Science Foundation (grant number 1529927 and grant number 1530375), and US Geological Survey Climate and Land-Use Change Research and Development Program. The work is presented in technical contribution number 6402 of the Clemson University Experimental Station
