@@ -38,3 +38,7 @@ publishDate: 2018-06-15T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
+M. J. Deventer was funded by NSF Atmospheric Chemistry grant 1258365, J. A. Lewis and M. C. Ferner were supported by an award under the
+Coastal Zone Management Act, administered by NOAA’s Office for Coastal Management, to San Francisco State University
+
+Methyl Halide associated data are available under Creative Commons Attribution (CC-BY) license at UC Berkeley Dash, https://doi.org/10.6078/D1QM2R, and carbon flux data are available under ameriflux policy at doi: 10.17190/AMF/1418685. Meteorological and hydrological data are openly available from the National Estuarine Research Reserve data portal under the San Francisco Bay, CA First Mallard site (http://cdmo.baruch.sc.edu/aqs/)
