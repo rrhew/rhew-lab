@@ -40,5 +40,4 @@ url_code: ""
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+This project was funded by the National Science Foundation (ATM‐1258365).{{% /callout %}}
