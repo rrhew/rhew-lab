@@ -36,7 +36,7 @@ mechanisms involved, and assesses impacts of land use and climate change on emis
 - [Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
 - [University of California, Berkeley](https://www.berkeley.edu)
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
-- [Sagehen Creek Field Station](https://sageneh.ucnrs.org)
+- [Sagehen Creek Field Station](https://sagehen.ucnrs.org)
 - [Central Sierra Snow Lab](https://cssl.berkeley.edu)
 
 {{% callout note %}}
