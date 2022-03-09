@@ -35,7 +35,7 @@ header:
 -	Communicating Ocean Science (GEOG c146/EPSc100/IBc100) * 
 -	Communicating Climate Science (GEOG 147, formerly 171) * 
 
-#### Graduate courses:  
+#### Graduate courses 
 
 - Topics in Biogeochemistry  (GEOG 245) §  
 -	Intro. to Lab & Field Methods in Earth System Science  (GEOG 248) §  
