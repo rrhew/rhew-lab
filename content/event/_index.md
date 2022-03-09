@@ -14,9 +14,7 @@ header:
   focal_point: ""
 ---
 
-#### Courses taught (2003-2021) Fa=Fall semester, Sp = Spring semester.  
-
-(§ = developed, * = co-taught)
+Courses taught 2003-2021  (§ = developed, * = co-taught)
 
 #### Lower Division  
 
