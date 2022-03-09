@@ -1,8 +1,5 @@
 ---
-title: Courses Offered
-{{% callout note %}}
-Courses taught include:
-{{% /callout %}}
+title: Courses Offered include
 
 # View.
 #   1 = List
