@@ -41,3 +41,5 @@ header:
 -	Intro. to Lab & Field Methods in Earth System Science  (GEOG 248) §  
 -	Advances in Environmental Change (GEOG 243) * 
 -	Effective Scientific Communication (GEOG C302/ESPM C302) *  
+
+
