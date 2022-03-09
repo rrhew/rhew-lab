@@ -13,8 +13,7 @@ header:
   image: ""
   focal_point: ""
 ---
-
-Courses taught 2003-2021  (§ = developed, * = co-taught)
+(§ = developed, * = co-taught)
 
 #### Lower Division  
 
