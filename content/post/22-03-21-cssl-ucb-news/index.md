@@ -6,7 +6,7 @@ image:
   caption: "Snow Water Equivalent, March 25, 2022"
   preview_only: false  
 ---
-(Mar 21, 2022) Excellent story and video about Dr. Andrew Schwartz and Snow Lab  [UCB press release](https://news.berkeley.edu/2022/03/21/with-climate-change-berkeley-snow-labs-mission-remains-critical/). 
+(Mar 21, 2022) Excellent story and video about Dr. Andrew Schwartz and Snow Lab: [With climate change, Berkeley snow lab’s mission remains critical](https://news.berkeley.edu/2022/03/21/with-climate-change-berkeley-snow-labs-mission-remains-critical/). 
 
 <!--more-->
 This very timely new story by Bob Sanders and video by Roxanne Makasdjian and Jason Blalock highlight the work done by the 
