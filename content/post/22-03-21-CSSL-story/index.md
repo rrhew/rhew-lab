@@ -22,7 +22,7 @@ and classes, and fielding media requests from around the country and world (see 
 to many of them).  
 
 For more information, see Central Sierra Snow Lab: 
-Website(https://cssl.berkeley.edu/) | Facebook(https://www.facebook.com/UCB.CSSL/) | Twitter (https://twitter.com/UCB_CSSL)
+[Website](https://cssl.berkeley.edu/) | [Facebook](https://www.facebook.com/UCB.CSSL/) | [Twitter](https://twitter.com/UCB_CSSL)
  
 Photo: screenshot of Andrew's new website tracker for Snow Water Equivalent, supplementing the data 
 on snowpack depth [CSSL](https://cssl.berkeley.edu/)
