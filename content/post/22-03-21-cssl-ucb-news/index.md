@@ -3,7 +3,7 @@ title: Central Sierra Snow Lab featured in UC Berkeley news story
 date: 2022-03-21
 image:
   focal_point: "top"
-  caption: "Snow Water Equivalent, March 25, 2022"
+  caption: "Snow Water Equivalent, March 25, 2022, CSSL website"
   preview_only: false  
 ---
 (Mar 21, 2022) Excellent story and video about Dr. Andrew Schwartz and Snow Lab: [With climate change, Berkeley snow lab’s mission remains critical](https://news.berkeley.edu/2022/03/21/with-climate-change-berkeley-snow-labs-mission-remains-critical/). 
