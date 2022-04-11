@@ -4,7 +4,7 @@ date: 2022-03-31
 image:
   focal_point: "top"
 ---
-(March 31, 2022) We are delighted to report that Yi Jiao (PhD 2021) is a recipient of the prestigious [Marie Curie fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu242m-to-the-2021-postdoctoral-fellowships-applicants) for postdoctoral research at the University of Copenhangen, Denmark
+(March 31, 2022) We are delighted to report that Yi Jiao (PhD 2021) is a recipient of the prestigious [Marie Curie fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/news/msca-awards-eu242m-to-the-2021-postdoctoral-fellowships-applicants) to support his postdoctoral research at the University of Copenhangen, Denmark.
 
 <!--more-->
 
