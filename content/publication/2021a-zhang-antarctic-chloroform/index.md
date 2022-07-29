@@ -56,5 +56,5 @@ url_code: ""
 Supplementary Information [here](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GL093811&file=2021GL093811-sup-0001-Supporting+Information+SI-S01.pdf).{{% /callout %}}
 
 Antarctic work supported by National Natural Science Foundation of China (No. 41776190; 41976220), National Key Research and Development Program
-of China (No. 2020YFA0608501) and Strategic Priority Research Program of Chinese Academy of Sciences (No. XDB40010200)
+of China (No. 2020YFA0608501) and Strategic Priority Research Program of Chinese Academy of Sciences (No. XDB40010200).  Note:  No funds from China were received by UC Berkeley or our laboratory for this work.  
 
