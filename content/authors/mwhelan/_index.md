@@ -18,7 +18,7 @@ organizations:
     url: "https://envsci.rutgers.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mary Whelan completed her Ph.D. in 2013 from UC Berkeley, was a post-doctoral researcher at the Sierra Nevada Research Institute and the Carnegie Institution for Science, Global Ecology, at Stanford University.  Mary has expertise in biogeochemical cycling of sulfur and the use of COS as a tracer for global photosynthesis. Dr. Whelan is now an Assistant Professor at Rutgers University. 
+bio: Mary Whelan is an Assistant Professor in the Environmental Sciences Department at the Rutgers University. 
 
 interests:
   - trace gas biogeochemistry
@@ -55,4 +55,4 @@ user_groups:
 - Researchers
 ---
 
-Mary Whelan is an Assistant Professor in the Environmental Sciences Department at the Rutgers University.  [Whelan's website](https://www.marywhelan.com/)
+Mary Whelan completed her Ph.D. in 2013 from UC Berkeley, was a post-doctoral researcher at the Sierra Nevada Research Institute and the Carnegie Institution for Science, Global Ecology, at Stanford University.  Mary has expertise in biogeochemical cycling of sulfur and the use of COS as a tracer for global photosynthesis. Dr. Whelan is now an Assistant Professor at Rutgers University. [Whelan's website](https://www.marywhelan.com/)
