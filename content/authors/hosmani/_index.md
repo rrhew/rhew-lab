@@ -18,7 +18,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Hena Osmani, B.S., Molecular Environmental Biology, minor: Geospatial Information Service, University of California at Berkeley.  Undergraduate researcher (Feb 2022-August 2022).   
+bio: Hena Osmani, B.S., Molecular Environmental Biology, minor Geospatial Information Service, University of California at Berkeley.  Undergraduate researcher (Feb 2022-August 2022).   
 
 interests:
   - quantitative analysis of community-based public health issues 
