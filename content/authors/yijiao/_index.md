@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: graduate student; post-doctoral researcher
+role: graduate student (2014-2021); post-doctoral researcher (2021)
 
 avatar_filename: jiaoyi.jpg
 
