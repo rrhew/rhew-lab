@@ -41,3 +41,4 @@ url_code: ""
 
 {{% callout note %}}
 This study was supported by National Natural Science Foundation of China, National Key Research and Development Program of China and Strategic Priority Research Program of Chinese Academy of Sciences. Note:  No funds from China were received by UC Berkeley or our laboratory for this work.  
+{{% /callout %}}
