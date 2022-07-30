@@ -14,8 +14,7 @@ authors:
   - Z. Wang
 
 publication: "*Science of the Total Environment*, **835**, https://doi.org/10.1016/j.scitotenv.2022.155449"
-summary: "This is the first study measuring CCl4 fluxes from the Antarctic tundra.  Antarctic tundra soil is a small natural sink of atmospheric CCl4. It is estimated Antarctic tundra degrades about 2.4 metric tons CCl4 yr−1. CCl4 degradation in Antarctic tundra is likely abiotic and dependent on O2.Results supports the viewpoint CCl4 soil sink is smaller than previously thought.
- "
+summary: "This is the first study measuring CCl4 fluxes from the Antarctic tundra.  Antarctic tundra soil is a small natural sink of atmospheric CCl4. It is estimated Antarctic tundra degrades about 2.4 metric tons CCl4 yr−1. CCl4 degradation in Antarctic tundra is likely abiotic and dependent on O2.Results supports the viewpoint CCl4 soil sink is smaller than previously thought."
 url_dataset: ""
 url_project: ""
 publication_short: ""
