@@ -58,4 +58,4 @@ user_groups:
 - Researchers
 ---
 
-Yi Jiao is a Postdoctoral Researcher in the Department of Biology at the University of Copenhagen at Denmark.  [Yi's website](https://sites.google.com/view/yi-jiao-homepage/home)
+Yi Jiao completed his Ph.D. in 2021 from UC Berkeley and is now a Marie Curie Postdoctoral Fellow in the Department of Biology at the University of Copenhagen at Denmark.  [Yi's website](https://sites.google.com/view/yi-jiao-homepage/home)
