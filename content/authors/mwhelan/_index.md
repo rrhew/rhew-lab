@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: graduate student 
+role: graduate student (2007-2013)
 
 avatar_filename: mwhelan.jpg
 
