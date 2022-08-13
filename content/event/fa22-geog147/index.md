@@ -53,7 +53,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-### Note for Fall 2020: All classes will be remote, via Zoom. 
 
 - **Prior offerings** Fa2013, Fa2014, Fa2015, Fa2016, Fa2017, Fa2018, Fa2020
 - **Rotating team of instructors, including:**
