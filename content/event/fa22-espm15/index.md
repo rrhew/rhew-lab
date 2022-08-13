@@ -2,9 +2,9 @@
 title: (Fall 2022) ESPM 15 - Introduction to Environmental Science 
 
 event: MWF 2 p.m. -  3 p.m.
-event_url: https://example.org
+# event_url: https://example.org
 
-location: *in person* UC Berkeley
+location: UC Berkeley
 address:
   street: UC Berkeley
   city: Berkeley
