@@ -26,9 +26,9 @@ interests:
   
 education:
   courses:
-   - course: BSc Molecular Environmental Biology
+   - course: BSc Molecular Environmental Biology, Minor GIST
      institution: University of California, Berkeley
-     year: expected 2023
+     year: expected December 2022
       
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
