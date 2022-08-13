@@ -1,6 +1,6 @@
 ---
-title: Central Sierra Field Stations
-summary: The 5 stations which comprise the Central Sierra Field Stations
+title: Field Research
+summary: The Atmospheric Biogeochemistry Lab conducts field work across many ecosystems
 date: "2022-01-02T00:00:00Z"  
 
 reading_time: false  # Show estimated reading time?
@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header: 
-  caption: "Sagehen Creek Field Station"
-  image: "sagehen-field.jpg"
+  caption: "Manitou Forest"
+  image: "manitou.jpg"
 ---
 
 ## GENERAL FIELD STATION LINKS
