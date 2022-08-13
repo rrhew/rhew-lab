@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Metta Nicholson, B.S., Molecular Environmental Biology; Minor in Music, University of California at Berkeley.  Haas Schoalrs Program 2020-21.  Undergraduate researcher in ABC Lab (Sept 2019-June 2021).   
+bio: Metta Nicholson, B.S., Molecular Environmental Biology; Minor in Music, University of California at Berkeley.  Haas Scholars Program 2020-21.  Undergraduate researcher in Atmospheric Biogeochemistry Lab (Sept 2019-June 2021).   
 
 interests:
   - global change biology
@@ -41,4 +41,4 @@ user_groups:
 - Undergraduate
 ---
 
-Metta joined the Atmospheric Biogeochemistry lab as part of the URAP Program, and followed up as a Haas scholar for her senior honors thesis research. 
+Metta joined the Atmospheric Biogeochemistry lab in the Fall of 2019 as part of the URAP Program, and followed up as a Haas scholar for her senior honors thesis research. Her senior thesis, "Analyzing methane emissions from a restored bay area wetland", was conducted amidst the challenges of the pandemic.  For this research, she collected soil cores at the Sherman Island restored wetland and conducted core incubations in the laboratory to measure fluxes of methand and carbon dioxide.
