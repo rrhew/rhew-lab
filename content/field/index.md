@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header: 
-  caption: "Manitou Forest"
-  image: "manitou.jpg"
+  caption: "Kansas tallgrass prairie"
+  image: "Kansas.jpg"
 ---
 
 ## GENERAL FIELD STATION LINKS
