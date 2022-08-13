@@ -12,5 +12,5 @@ Rhew's main activities as Faculty Director were:  to support existing projects w
 
 Rhew is pleased to leave the station in most capable hands. The new station managers (Dr. Ash Zemenick at Sagehen Creek Field Station and Dr. Andrew Schwartz at the Snow Lab) have recently celebrated the completion of their successful first year, and in that time, they have brought many new directions of emphasis to their field stations.  Rhew is succeeded by Prof. Neil Tsutsui (ESPM) who was appointed as the new faculty director of the Central Sierra Field Stations.  
 
-Photo: Sagehen Creek Field Station [Photo credit: R Rhew] 
+Caption: UC Berkeley Field Stations and Faculty Directors
 
