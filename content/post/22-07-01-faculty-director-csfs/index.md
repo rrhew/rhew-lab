@@ -1,10 +1,10 @@
 ---
-title: Rob completes term as Faculty Director of the Central Sierra Field Stations
+title: Robert Rhew completes term as Faculty Director of the Central Sierra Field Stations
 date: 2022-07-01
 image:
   focal_point: "top"
 ---
-(July 1, 2022) Rob Rhew completed his 5-year appointment as the Faculty Director of the Central Sierra Field Stations (Sagehen Creek Field Station, Central Sierra Snow Lab, Onion Creek Experimental Forest, North Fork Association Lands, and the Chickering Reserve).
+(July 1, 2022) Rob completed his 5-year appointment as the Faculty Director of the Central Sierra Field Stations (Sagehen Creek Field Station, Central Sierra Snow Lab, Onion Creek Experimental Forest, North Fork Association Lands, and the Chickering Reserve).
 
 <!--more-->
 
