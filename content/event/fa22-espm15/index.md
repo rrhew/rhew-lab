@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Jan 2022 SF Bay'
+  caption: 'Jan 2022 SF Bay, photo by R Rhew'
   focal_point: Right
 
 url_code: ""
