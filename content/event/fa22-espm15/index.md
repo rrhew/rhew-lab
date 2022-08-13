@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: (Fall 2022)- ESPM 15 - **Introduction to Environmental Science**
-abstract: "ESPM 15 is designed to introduce students to the science underlying biological and physical environmental problems, focusing on water and air quality, global change, water supply, solid waste, introduced and endangered species, and preservation of ecosystems.  "
+abstract: "ESPM 15 is designed to introduce students to the science underlying biological and physical environmental problems, focusing on water and air quality, global change, water supply, solid waste, introduced and endangered species, and preservation of ecosystems."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,8 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Jan 2022 SF Bay
-  '
+  caption: 'Jan 2022 SF Bay'
   focal_point: Right
 
 url_code: ""
