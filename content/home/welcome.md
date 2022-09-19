@@ -36,8 +36,11 @@ mechanisms involved, and assesses impacts of land use and climate change on emis
 - [Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
 - [University of California, Berkeley](https://www.berkeley.edu)
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
-- [Sagehen Creek Field Station](https://sagehen.ucnrs.org)
-- [Central Sierra Snow Lab](https://cssl.berkeley.edu)
+- [Sagehen Creek Field Station](https://sagehen.ucnrs.org) & [Central Sierra Snow Lab](https://cssl.berkeley.edu)
+
+{{% callout note %}}
+FALL 2022 OFFICE HOURS: Tuesdays at 1-3 p.m. at McCone Hall, 5th floor.  Email for other times or for Zoom appointments.    
+{{% /callout %}}
 
 {{% callout note %}}
 Interested in joining our laboratory? 
