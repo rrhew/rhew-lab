@@ -41,7 +41,23 @@ mechanisms involved, and assesses impacts of land use and climate change on emis
 {{% callout note %}}
 FALL 2022 OFFICE HOURS: Tuesdays at 1-3 p.m. at McCone Hall, 5th floor.  Email for other times or for Zoom appointments.    
 {{% /callout %}}
-
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ28b152IitJuZs82GQGWVzbGJqOGQl3vlN0Q2TJWQJHlFKKN6tPKcX7BZwh4VgAeJhywCEqyViL?gv=true',
+      color: '#9FE1E7',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
 {{% callout note %}}
 Interested in joining our laboratory? 
 Undergraduates should apply through the URAP (L&S) or SPUR (CNR) programs. Prospective graduate students please email.
