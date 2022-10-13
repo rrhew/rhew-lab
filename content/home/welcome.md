@@ -39,8 +39,8 @@ mechanisms involved, and assesses impacts of land use and climate change on emis
 - [Sagehen Creek Field Station](https://sagehen.ucnrs.org) & [Central Sierra Snow Lab](https://cssl.berkeley.edu)
 
 {{% callout note %}}
-FALL 2022 OFFICE HOURS: Tuesdays at 1-3 p.m. at McCone Hall, 5th floor.  Email for other times or for Zoom appointments.    
-{{% /callout %}}
+FALL 2022 OFFICE HOURS: Tuesdays at 1-3 p.m. at McCone Hall, 5th floor.  Book using link below.  Email for other times or for Zoom appointments.    
+
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
@@ -58,6 +58,9 @@ FALL 2022 OFFICE HOURS: Tuesdays at 1-3 p.m. at McCone Hall, 5th floor.  Email f
 })();
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
+
+{{% /callout %}}
+
 {{% callout note %}}
 Interested in joining our laboratory? 
 Undergraduates should apply through the URAP (L&S) or SPUR (CNR) programs. Prospective graduate students please email.
