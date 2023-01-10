@@ -1,10 +1,10 @@
 ---
-title: Fall semester teaching wrap up
+title: Fall 2022 teaching wrap up
 date: 2022-12-31
 image:
   focal_point: "top"
 ---
-(December 31, 2022) This fall was a busy teaching semester.  Professor Rhew taught 3 classes this fall, two of them co-taught with outstanding instructors: Communicating Climate Science (Geog 147 with Emily Weiss), Introduction to Environmental Science (ESPM 15 with Dr. Patina Mendez) and the Global Environment Theme House seminar (NatRes24).  
+(December 31, 2022) This fall was a busy teaching semester.  Professor Rhew taught 3 classes this fall, and was fortunate to co-teach the two major courses with outstanding instructors: Communicating Climate Science (Geog 147 with Emily Weiss), Introduction to Environmental Science (ESPM 15 with Dr. Patina Mendez) and the Global Environment Theme House seminar (NatRes24).  
 
 <!--more-->
 
