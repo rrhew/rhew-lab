@@ -15,7 +15,7 @@ avatar_filename: avatar.jpg
 # Organizations/Affiliations
 organizations:
   - name: School of Chemistry, University of Bristol
-    url: "https://www.bristol.ac.uk/people/person/Anwar-Khan-608dfc2d-939e-46f1-b38f-6b163fda649f/"
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -25,16 +25,17 @@ interests:
   - atmospheric chemistry
   - VOCs and SOA formation
   - air quality
-  
+
 education:
   courses:
-	- course: PhD 
-	  institution: University of Bristol, UK
-    year: 2008
+
   - course: MSc in Chemistry
     institution: Jahangirnagar University, Bangladesh
     year: 1993
-      
+  - course: PhD 
+  institution: University of Bristol, UK
+  year: 2008
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,4 +55,4 @@ user_groups:
 Md. Anwar Khan received his PhD in Atmospheric Chemistry from the University of Bristol, UK in 2008 and joined our research group as a post-doctoral research fellow from 2009-2011. During his post-doctoral research, Anwar worked on development of instrumentation to measure reduced sulfur gases, conducted an impressive 12 month study to measure methyl halide and chloroform emissions from a peatland pasture dominated by the invasive perennial pepperweed, and conducted a study measuring methyl halide and chloroform emissions from a rice paddy converted from a peatland pasture.    
 
 He is currently a research fellow in the Department of Chemistry at U Bristol.  
- 
+https://www.bristol.ac.uk/people/person/Anwar-Khan-608dfc2d-939e-46f1-b38f-6b163fda649f/
