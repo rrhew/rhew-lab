@@ -24,14 +24,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Z92opqQAAAAJ&hl=en
-    <a href="https://mentorfirst.org" target="_blank" style="display: block; width: 25%; margin: auto;">
-    <img
-        alt="#MentorFirst Logo"
-        src="https://assets.pledge.mentorfirst.org/logo/mentoring_notext@2x.png"
-        style="border: 0px;"
-        border="0"
-    />
-    </a>
 organizations:
   - name: UC Berkeley
     url: https://berkeley.edu
@@ -58,3 +50,13 @@ user_groups:
 Robert Rhew (he/him) is a professor of trace gas biogeochemistry at the University of California, Berkeley. His research interests include the sources and sinks of gases involved with stratospheric ozone depletion, radiative forcing and air pollution. He leads the Atmospheric Biogeochemistry group in the Department of Geography, which conducts field and laboratory based measurements of trace gas fluxes and studies of the environmental and biological controls on those fluxes.
 
 Rhew is also affiliated with the Department of Environmental Science, Policy & Management.  [CV HERE](rhew-cv.pdf)
+
+<a href="https://mentorfirst.org" target="_blank" style="display: block; width: 25%; margin: auto;">
+    <img
+        alt="#MentorFirst Logo"
+        src="https://assets.pledge.mentorfirst.org/logo/mentoring_notext@2x.png"
+        style="border: 0px;"
+        border="0"
+    />
+</a>
+
