@@ -7,7 +7,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (2022-present)
+role: undergraduate (2022 spring and fall)
 
 avatar_filename: hosmani.jpg
 
