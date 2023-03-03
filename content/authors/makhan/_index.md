@@ -30,10 +30,10 @@ education:
   courses:
 	- course: PhD 
 	  institution: University of Bristol, UK
-      year: 2008
-    - course: MSc in Chemistry
-      institution: Jahangirnagar University, Bangladesh
-      year: 1993
+    year: 2008
+  - course: MSc in Chemistry
+    institution: Jahangirnagar University, Bangladesh
+    year: 1993
       
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
