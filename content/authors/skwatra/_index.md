@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (2022-present)
+role: undergraduate (2022 spring, summer)
 
 avatar_filename: skwatra.jpg
 
