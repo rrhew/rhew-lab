@@ -1,5 +1,5 @@
 ---
-title: Soil & Environmental Health paper on ghost forest biogeochemistry
+title: <i>Soil & Environmental Health</i> paper on ghost forest biogeochemistry
 date: 2023-03-17
 image:
   focal_point: "top"
