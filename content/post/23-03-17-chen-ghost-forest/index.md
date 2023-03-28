@@ -16,5 +16,5 @@ Seawater intrusion by rising sea levels has created large areas of ghost forests
  
 Thanks to the National Science Foundation(grants EAR-1529927 and EAR-1530375) for financial support.
 
-Caption: Schematic of impact of salt water intrusion on forested wetlands, including photos of the ghost forests. 
+Figure: Schematic showing the impact of saline water inputs to the coastal ecosystems.  SM = salt marsh, GF = salt-impacted ghost forest, FW = freshwater wetland
 
