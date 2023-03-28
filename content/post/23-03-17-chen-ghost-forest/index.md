@@ -1,10 +1,10 @@
 ---
-title: <i>Soil & Environmental Health</i> paper on ghost forest biogeochemistry
+title: Soil & Environmental Health paper on ghost forest biogeochemistry
 date: 2023-03-17
 image:
   focal_point: "top"
 ---
-(March 17, 2023) New collaborative paper by Chen <i>et al.</i> detailing the unique biogeochemistry of South Carolina ghost forests that experience increased saltwater intrusion associated with sea level rise, appearing in the inaugural issue of <i>Soil & Environmental Health</i>.  
+(March 17, 2023) Just published: new collaborative paper by Chen <i>et al.</i> detailing the unique biogeochemistry of South Carolina ghost forests that experience increased saltwater intrusion associated with sea level rise, appearing in the inaugural issue of <i>Soil & Environmental Health</i>.  
 
 <!--more-->
 
