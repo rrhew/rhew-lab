@@ -42,10 +42,10 @@ Our trace gas biogeochemistry research addresses questions at all of these scale
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
 
 {{% callout note %}}
-SPRING 2023 OFFICE HOURS: By appointment only -- please email to arrange
+FALL 2023 OFFICE HOURS: Tuesday 10-11 a.m. and Thursday 11 a.m.- 12 p.m.
 {{% /callout %}}
 
 {{% callout note %}}
 Interested in joining our laboratory? 
-Undergraduates should apply through the URAP (L&S) or SPUR (CNR) programs. Prospective graduate students please email.
+Undergraduates should apply through the [URAP (L&S)](https://research.berkeley.edu/urap/) or SPUR (CNR) programs. Prospective graduate students please email.
 {{% /callout %}}
