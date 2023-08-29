@@ -1,5 +1,5 @@
 ---
-title: (Spring 2022) Geog 143 - Global Change Biogeochemistry
+title: (Fall 2023) Geog 143 - Global Change Biogeochemistry
 
 event: Tu 9-10 a.m. /Thu 9 - 11 a.m.
 event_url: https://example.org
