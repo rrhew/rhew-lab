@@ -19,8 +19,8 @@ In this class, we will **explore the imprint that biota (including humans) have 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-08-24T09:30:00Z"
-date_end: "2023-12-21T17:00:00Z"
+date: "2023-08-24T09:00:00Z"
+date_end: "2023-12-06T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
