@@ -1,5 +1,5 @@
 ---
-title: Metta Nicholson
+title: Charlie Diaz
 
 # Username (this should match the folder name)
 authors:
