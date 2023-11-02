@@ -28,4 +28,4 @@ design:
   show_social: true
 ---
 
-(to be updated)
+(since 2020, members before 2020 will be added soon)
