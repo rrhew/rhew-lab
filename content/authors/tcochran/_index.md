@@ -41,4 +41,4 @@ user_groups:
 - Current Undergraduate
 ---
 
-Taleen joined the URAP program as part of the URAP Program.  She is currently working on laser-based measurements of CO2 and will soon be working on GC-MS measurements of air samples.  
+Taleen joined the Atmospheric Biogeochemitry Laboratory as part of the URAP Program.  She is currently working on laser-based measurements of CO2 and will soon be working on GC-MS measurements of air samples.  
