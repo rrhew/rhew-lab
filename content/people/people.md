@@ -19,9 +19,9 @@ content:
   - Principal Investigator
   - Researchers
   - Graduate Student
-  - Undergraduate
+  - Current Undergraduate
+  - Former Undergraduate
   - Visitors
-  - Alumni
 design:
   show_interests: false
   show_role: true
