@@ -26,8 +26,7 @@ interests:
   
 education:
   courses:
-   - course: BSc Chemistry
-     course: BA Music
+   - course: BSc Chemistry and BA Music
      institution: University of California, Berkeley
      year: 2024 (exp)
       
