@@ -26,7 +26,8 @@ interests:
   
 education:
   courses:
-   - course: BSc Chemical Engineering (Minor in Data Science)
+   - course: BSc Chemical Engineering
+     course: Minor Music
      institution: University of California, Berkeley
      year: 2025 (exp)
       
@@ -41,4 +42,5 @@ user_groups:
 - Current Undergraduate
 ---
 
-Tyler joined the URAP program as part of the URAP Program.  He is currently working on laser-based measurements of CH4, CO2 and CO.  
+Selena joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program.  She is currently working on instrument development and lab based measurements of trace gases
+
