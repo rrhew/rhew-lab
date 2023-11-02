@@ -1,5 +1,5 @@
 ---
-title: Charlie Diaz
+title: Metta Nicholson
 
 # Username (this should match the folder name)
 authors:
@@ -41,4 +41,4 @@ user_groups:
 - Current Undergraduate
 ---
 
-Charlie joined the URAP program as part of the URAP Program.  He is currently working on development of a simulated tidally influenced peatland and measurement of trace gases under variable redox conditions.  
+Charlie joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program.  He is currently working on development of a simulated tidally influenced peatland and measurement of trace gases under variable redox conditions.  
