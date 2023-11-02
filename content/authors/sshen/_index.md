@@ -26,8 +26,7 @@ interests:
   
 education:
   courses:
-   - course: BSc Chemical Engineering
-     course: Minor Music
+   - course: BSc Chemical Engineering (Minor in Data Science)
      institution: University of California, Berkeley
      year: 2025 (exp)
       
