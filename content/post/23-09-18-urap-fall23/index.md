@@ -14,7 +14,7 @@ Selena Shen, Junior, Chemical Engineering (Minor in Data Science)<br>
 Genevieve (Gigi) Porter, Senior, Environmental Earth Science and French<br>
 Charlie Diaz, Sophomore, Environmental Earth Science and Marine Science<br>
 <p>
-These 5 new members were selected through the competitive Undergraduate Research Apprenticeship Program (URAP). We immediately started working on characterizing, calibrating, and fixing two laser based instruments to measure CO2, CH4, CO and H2O. We will soon be developing equipment to handle incubations of wetland soils, which will be used to study hydrologic regulation of trace gas emissions.  
+These 5 new members were selected through the competitive Undergraduate Research Apprenticeship Program (URAP). They immediately started working on characterizing, calibrating, and fixing two laser based instruments to measure CO2, CH4, CO and H2O. They will soon be developing equipment to handle incubations of wetland soils, which will be used to study hydrologic regulation of trace gas emissions.  
 <p>
 Front row (L to R): Taleen and Selena<br>
 Back row (L to R): Charlie, Tyler, Rob and Gigi
