@@ -1,5 +1,5 @@
 ---
-title: Metta Nicholson
+title: Taleen Cochran
 
 # Username (this should match the folder name)
 authors:
