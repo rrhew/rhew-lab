@@ -26,7 +26,8 @@ interests:
   
 education:
   courses:
-   - course: BSc Chemistry and BA Music
+   - course: BSc Chemistry
+     course: BA Music
      institution: University of California, Berkeley
      year: 2024 (exp)
       
@@ -41,4 +42,4 @@ user_groups:
 - Current Undergraduate
 ---
 
-Tyler joined the URAP program as part of the URAP Program.  He is currently working on laser-based measurements of CH4, CO2 and CO.  
+Tyler joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program.  He is currently working on laser-based measurements of CH4, CO2 and CO.  
