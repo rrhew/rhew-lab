@@ -6,7 +6,7 @@ url_pdf: https://www.nature.com/articles/s43247-023-00990-4
 publication_types:
   - "2"
 authors:
-  -Zhang, Wanying
+  - Zhang, Wanying
   - Zhu, Renbin
   - Jiao, Yi 
   - Rhew, Robert C. 
