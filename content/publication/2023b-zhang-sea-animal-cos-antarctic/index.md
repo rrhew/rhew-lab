@@ -14,7 +14,7 @@ authors:
   - R. Rinnan
   - Z. Zhou
 
-publication: "*Communications Earth & Environment* **volume 4**, 326 (2023)"
+publication: "*Communications Earth & Environment* **4**, 326, https://doi.org/10.1038/s43247-023-00990-4"
 
 summary: "The Antarctic tundra shifts from an OCS sink to an OCS source when occupied by sea animal colonies"
 
