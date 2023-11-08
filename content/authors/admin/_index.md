@@ -24,6 +24,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Z92opqQAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link:  https://www.linkedin.com/in/robert-rhew-659985117?challengeId=AQGYCqBhJtqMNwAAAYutG-h59DqxoCM0sVIYgLAS_JgPaJQ05kVVdI5JKW33ZQ4o6uqcEbWG60_lPUEKyiaCJEVZ67WpEOMAkg&submissionId=8d32f4f8-2e8a-9517-72ee-5e0114d2ce40&challengeSource=AgH5BrergzqJagAAAYutG-9aVbDTHzQO5xDdeU0mcJhRklC0VLlD362YTem6J1c&challegeType=AgE9BAPl1yahrgAAAYutG-9drm7ilNejDGi3GgXiYaH32fPQc3Kxy44&memberId=AgGh3YsMaspMSQAAAYutG-9gvy92arNllE_34wKpSHFVwXQ&recognizeDevice=AgFl0qdjZ0B5BAAAAYutG-9ja-DZlaxrXgCvOm44Nj0nnqO8xzn_  
 organizations:
   - name: UC Berkeley
     url: https://berkeley.edu
