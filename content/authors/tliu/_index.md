@@ -19,15 +19,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Tyler Liu, B.Sc.(exp. 2024) Chemistry and B.A. (exp 2024) Music, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2023- present).   
+bio: Tyler Liu, B.Sc. Chemistry and B.A. Music, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2023- present).   
 
 interests:
   - chemistry, music
   
 education:
   courses:
-   - course: BSc Chemistry
-     course: BA Music
+   - course: BSc Chemistry and BA Music (double major)
      institution: University of California, Berkeley
      year: 2024 (exp)
       
@@ -42,4 +41,4 @@ user_groups:
 - Current Undergraduate
 ---
 
-Tyler joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program.  He is currently working on laser-based measurements of CH4, CO2 and CO.  
+Tyler Liu is a senior at UC Berkeley studying chemistry and music, with a concentration in organic materials (metals) for chemistry and musical composition for music. Tyler joined the Atmospheric Biogeochemistry Laboratory in Fall 2023.  He is currently working on laser-based measurements of CH4, CO2 and CO.  
