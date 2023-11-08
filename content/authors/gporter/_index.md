@@ -26,7 +26,7 @@ interests:
   
 education:
   courses:
-   - course: BSc Environmental Earth Science and and BA French
+   - course: BSc Environmental Earth Science and BA French
      institution: University of California, Berkeley
      year: 2024 (exp)
       
