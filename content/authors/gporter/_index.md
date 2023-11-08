@@ -34,8 +34,13 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-https://www.linkedin.com/comm/in/genevieve-porter-976401190
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:gi.p02@berkeley.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/comm/in/genevieve-porter-976401190
 
 
 # Organizational groups that you belong to (for People widget)
