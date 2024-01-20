@@ -42,7 +42,7 @@ Our trace gas biogeochemistry research addresses questions at all of these scale
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
 
 {{% callout note %}}
-FALL 2023 OFFICE HOURS: Tuesday 10-11 a.m. and Thursday 11 a.m.- 12 p.m.
+SPRING 2024: Prof. Rhew is on sabbatical this semester. Please e-mail to arrange meetings.  
 {{% /callout %}}
 
 {{% callout note %}}
