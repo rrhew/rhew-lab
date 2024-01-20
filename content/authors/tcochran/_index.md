@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Fall 2023 - present)
+role: undergraduate (Fall 2023)
 
 avatar_filename: tcochran.jpg
 
@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Taleen Cochran, B.Sc.(exp. 2024), Environmental Engineering Science, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2023- present).   
+bio: Taleen Cochran, B.Sc.(exp. 2024), Environmental Engineering Science, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept - Dec 2023).   
 
 interests:
   - environmental engineering
@@ -41,4 +41,4 @@ user_groups:
 - Current Undergraduate
 ---
 
-Taleen joined the Atmospheric Biogeochemitry Laboratory as part of the URAP Program.  She is currently working on laser-based measurements of CO2 and will soon be working on GC-MS measurements of air samples.  
+Taleen joined the Atmospheric Biogeochemitry Laboratory as part of the URAP Program.  She worked on laser-based measurements of CO2 for soil respiration studies.  
