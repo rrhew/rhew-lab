@@ -38,7 +38,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Taleen joined the Atmospheric Biogeochemitry Laboratory as part of the URAP Program.  She worked on laser-based measurements of CO2 for soil respiration studies.  
