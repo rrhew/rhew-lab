@@ -12,15 +12,16 @@ main:
     weight: 30
   - name: Research
     url: '#projects'
+    weight: 30
   - name: Publications
     url: publication
     weight: 40
   - name: Teaching
     url: event
     weight: 50
-  - name: Field Sites
-    url: field  # changed
-    weight: 60
   - name: About
     url: contact   
     weight: 70
+#  - name: Field Sites
+#    url: field  # changed
+#    weight: 60
