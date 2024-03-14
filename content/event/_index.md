@@ -13,6 +13,13 @@ header:
   image: ""
   focal_point: ""
 ---
+####Teaching Philosophy
+There is strong evidence that incorporating active learning techniques in undergraduate STEM courses enhances student learning (Freeman, S. et al., PNAS, 2014). In addition, incorporating active learning reduces the achievement gap for underrepresented groups in gateway STEM courses, and this is critical towards retaining URM and low-income students in STEM (Theobald, et al., PNAS, 2020). Despite these meta-analyses that demonstrate the efficacy of active learning, the traditional lecture prevails in STEM courses (Stains et al., Science, 2018).  <p>
+Prof. Rhew's approach to teaching aligns with his approach to research: use evidence-based methods for effectiveness, experiment with new techniques and technologies for improvement, and retain flexibility in the face of shifting conditions.  This is an iterative process that requires different approaches for different classes, and modifications year after year.  It takes reflection after every class session to figure out where the sticking points are, and to identify which student-centered approaches might help break through them. <p>
+It should be noted that even in classes that adopt student-centered strategies, lecturing still accounts for 30-75% of the class time (Stains et al, ibid).  Thus, it is important to incorporate active learning techniques along with the effective delivery of updated content, in an organized and dynamic manner.  The goal for every single course is to weave exposition and constructive approaches together in a way that maximizes learning.  What this looks like will vary depending on whether it is a freshman seminar, a lower division breadth course, an upper division specialized course, or a graduate seminar.  <p>
+Professor Rhew has taught or co-taught 51 undergraduate and 10 graduate semester-long courses, over 3600 students (as of Fall 2023).  These have included: 6 freshman seminars, 17 lower division undergraduate, 26 upper division undergraduate, and 12 graduate seminars. These courses span 16 different courses offered in multiple departments, 7 built from scratch.     
+
+
 (§ = developed, * = co-taught)
 
 #### Lower Division  
