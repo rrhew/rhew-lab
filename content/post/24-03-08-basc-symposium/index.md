@@ -1,5 +1,5 @@
 ---
-title: Undergraduate researchers present at BASC Symposium
+title: Undergraduate researchers present at 2024 BASC Symposium
 date: 2024-03-08
 image:
   focal_point: "top"
