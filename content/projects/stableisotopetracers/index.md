@@ -1,9 +1,10 @@
 ---
-title: Salt marsh fluxes of halocarbons
-summary: Improved estimates of coastal salt marsh emissions of methyl halides.   
+title: Stable isotoper tracer method for gross fluxes
+summary: developed stable isotope tracer method to simultaneously quantify gross emissions and uptake of methyl halides in the lab and field
+
 
 tags:
-- methyl bromide, methyl chloride, chloroform, carbonyl sulfide
+- stable isotope tracers, 13CH3Br, 13CH3Cl, gross fluxes
 date: "2024-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,6 +31,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-We expanded the range of coastal salt marsh measurements in the United States with measurements from the west coast (Rhew and Mazéas, 2010), east coast (Jiao et al., 2018; Wang et al., 2016) and Gulf Coast (Rhew et al., 2014). We also conducted the first net ecosystem flux measurements of methyl halides using micrometeorological techniques at a brackish salt marsh, and we compiled published salt marsh emissions to determine a geographically weighted global salt marsh source estimate (Deventer et al., 2018). 
+How much of the “missing source” can be attributed to an overestimated sink? 
 
-Background:  Coastal salt marshes deserve additional attention, as my early work suggested these may be the largest known natural terrestrial sources of methyl halides, significantly addressing the global budget gap.  Smaller emissions were reported from salt marshes in Scotland and Australia, and our own studies found similar emissions from northern California salt marshes (Rhew and Mazéas, 2010).  These smaller emission rates were all from higher latitude sites, and our subsequent study in subtropical Texas salt marshes found the highest reported flux per unit area from a natural terrestrial ecosystem, demonstrating the importance of geographic coverage for field studies (Rhew et al., 2014).  To achieve larger spatial scales, we developed a Relaxed Eddy Accumulation system to measure ecosystem-scale fluxes at a brackish salt marsh in the San Francisco estuary at Rush Ranch / Suisun marsh(Deventer et al., 2018).  These first ecosystem-wide flux measurements of methyl halides from a terrestrial ecosystem showed temporal correspondence with flux chamber results but provided better spatial coverage, and our study demonstrated the nonlinear impact of climatic factors in determining emissions. 
+We have developed a stable isotope tracer technique using 13C labeled methyl halides to quantify gross emission and consumption fluxes, not just in laboratory incubations but also in field flux studies. This allowed us to simultaneously search for new plant sources while quantifying the soil sink in situ. Soil uptake estimates for Kansas tallgrass prairie (Rhew, 2011), peatland pastures (Khan, Whelan and Rhew, 2012; Khan et al, 2013), and coastal salt marshes in northern California (Rhew and Mazeas, 2010) were combined with our earlier work on boreal forest (Rhew, Aydin, and Saltzman, 2003), tundra (Teh et al., 2009), shortgrass steppe (Teh et al., 2008), annual grasslands (Rhew and Abel, 2007) and oak-savannah woodland (Rhew et al. 2010).  These provided an estimate the soil sink that was 10-70% lower (i.e., longer partial lifetime) than the prior ranges, resolving a portion of the missing source problem and reducing the soil sink uncertainty (Montzka et al., 2011). Our work also demonstrated that there was a corresponding soil sink for CH3Cl, slightly exacerbating the imbalance for that compound (e.g., Rhew et al., 2010).
+
+
