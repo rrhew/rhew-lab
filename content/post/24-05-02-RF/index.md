@@ -4,7 +4,7 @@ date: 2024-05-02
 image:
   focal_point: "top"
 ---
-(May 1, 2024) This past term, Rhew completed his dual role as the Global Environment Theme House (GETH) faculty advisor and a Resident Faculty member in the Residence Halls
+(May 1, 2024) This past semester, Rhew completed his dual role as the Global Environment Theme House (GETH) faculty advisor and a Resident Faculty member in the Residence Halls
 
 <!--more-->
 
