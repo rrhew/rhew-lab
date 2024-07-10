@@ -1,5 +1,5 @@
 ---
-title: Stable isotoper tracer method for gross fluxes
+title: Stable isotope tracer method for gross fluxes
 summary: developed stable isotope tracer method to simultaneously quantify gross emissions and uptake of methyl halides in the lab and field
 
 
