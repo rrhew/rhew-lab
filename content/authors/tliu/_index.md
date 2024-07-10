@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Fall 2023 - present)
+role: undergraduate (Fall 2023 - Spring 2024)
 
 avatar_filename: tliu.jpg
 
