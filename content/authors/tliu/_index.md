@@ -28,7 +28,7 @@ education:
   courses:
    - course: BSc Chemistry and BA Music (double major)
      institution: University of California, Berkeley
-     year: 2024 (exp)
+     year: 2024
       
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
-Tyler Liu is a senior at UC Berkeley studying chemistry and music, with a concentration in organic materials (metals) for chemistry and musical composition for music. Tyler joined the Atmospheric Biogeochemistry Laboratory in Fall 2023.  He is currently working on laser-based measurements of CH4, CO2 and CO.  
+Tyler Liu graduated from UC Berkeley with a dual degree in chemistry and music, with a concentration in organic materials (metals) for chemistry and musical composition for music. Tyler joined the Atmospheric Biogeochemistry Laboratory for his senior year, in Fall 2023 through Spring 2024. He worked on several projects in the lab, including: 1) characterizing the laser-based instrument that measured CH4, CO2 and CO; 2) cryotrap improvements and testing for the GC-MS; and 3) GC-MS analyses. Tyler is off to do a Masters Degree and will continue his dual passions of music and science.  
