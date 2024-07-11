@@ -14,7 +14,7 @@ Rhew thanks the wonderful administrators at Residence Life, including Dr. Jaquel
 
 A heartfelt thank you to the amazing and inspiring GETH students, who shined every year, even during the online pandemic year. Numerous faculty, staff and community members came to speak at the GETH evening seminar, and their talks inspired and educated the students about the wide range of pursuits that can stem from curiosity and passion about the world around us. GETH students engaged in projects on and around campus, including native garden development, educational outreach and campus improvements, among other activities.
 
-Rhew's entire family immersed themselves in this live/life program, and the family is grateful to the hardworking and dedicated staff at the Residence Halls, including the building managers and the desk, dining hall, custodial and maintenance staff.  
+Rhew's entire family immersed themselves in this live/learn program, and the family is grateful to the hardworking and dedicated staff at the Residence Halls, including the building managers and the desk, dining hall, custodial and maintenance staff.  
 
 LEFT: Various programs as Resident Faculty member. RIGHT: GETH activities and retreats from 2020-2023
 
