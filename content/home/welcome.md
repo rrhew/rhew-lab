@@ -42,7 +42,7 @@ Our trace gas biogeochemistry research addresses questions at all of these scale
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
 
 {{% callout note %}}
-SPRING 2024: Prof. Rhew is on sabbatical this semester. Please e-mail to arrange meetings.  
+FALL 2024: Prof. Rhew is teaching ESPM 15 this fall. Office hours to be announced shortly.  
 {{% /callout %}}
 
 {{% callout note %}}
