@@ -42,7 +42,7 @@ Our trace gas biogeochemistry research addresses questions at all of these scale
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
 
 {{% callout note %}}
-Fall 2024 Office Hours: Tuesdays 1-3 p.m.  
+Fall 2024 Office Hours: Tuesdays 1-3 p.m., in person or online. Book at least an hour in advance. Drop-ins welcome, based on availability.  
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
