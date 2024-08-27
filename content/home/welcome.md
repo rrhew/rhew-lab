@@ -42,7 +42,24 @@ Our trace gas biogeochemistry research addresses questions at all of these scale
 - [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
 
 {{% callout note %}}
-FALL 2024: Prof. Rhew is co-teaching ESPM 15 this fall with Dr. Tina Mendez. Office hours to be announced shortly.  
+Fall 2024 Office Hours: Tuesdays 1-3 p.m.  
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3BdrWpy8NMlawwG3KOOqQQNE3g1Px0mudyYLY5OaVnWVI2-2Tar5TXfOXPpqDR4DNrliX16CXY?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
 {{% /callout %}}
 
 {{% callout note %}}
