@@ -1,5 +1,5 @@
 ---
-title: William Riley, new Ph.D. student, joins research team
+title: William Riley, new doctoral student, joins research team
 date: 2024-09-01
 image:
   focal_point: "top"
