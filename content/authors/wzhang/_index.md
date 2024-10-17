@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: visiting graduate student
+role: visiting graduate student (2020, 2022)
 
 avatar_filename: wanying.jpg
 
