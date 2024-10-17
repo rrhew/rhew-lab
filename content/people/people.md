@@ -18,8 +18,8 @@ content:
   user_groups:
   - Principal Investigator
   - Researchers
-  - Former Researcher
   - Current Undergraduate
+  - Former Researcher
   - Former Undergraduate
   - Visitors
 design:
