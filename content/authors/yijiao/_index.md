@@ -55,7 +55,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Former Researchers
 ---
 
 Yi Jiao completed his Ph.D. in 2021 from UC Berkeley and is now a Marie Curie Postdoctoral Fellow in the Department of Biology at the University of Copenhagen at Denmark.  [Yi's website](https://sites.google.com/view/yi-jiao-homepage/home)
