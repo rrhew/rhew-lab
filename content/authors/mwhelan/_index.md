@@ -52,7 +52,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Former Researchers
 ---
 
 Mary Whelan completed her Ph.D. in 2013 from UC Berkeley, was a post-doctoral researcher at the Sierra Nevada Research Institute and the Carnegie Institution for Science, Global Ecology, at Stanford University.  Mary has expertise in biogeochemical cycling of sulfur and the use of COS as a tracer for global photosynthesis. Dr. Whelan is now an Assistant Professor at Rutgers University. [Whelan's website](https://www.marywhelan.com/)
