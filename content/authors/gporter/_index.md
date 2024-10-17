@@ -46,7 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Researchers
 ---
 
 Gigi joined the Atmospheric Biogeochemistry laboratory as part of the URAP Program. She is currently working on a variety of projects related to trace gas biogeochemistry.  
