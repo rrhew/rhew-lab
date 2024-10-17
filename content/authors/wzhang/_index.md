@@ -43,7 +43,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- Former Researchers
 ---
 
 Wanying Zhang is a PhD graduate student at USTC and was a visiting graduate student from 2019-2020.  
