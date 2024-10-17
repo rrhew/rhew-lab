@@ -19,9 +19,8 @@ content:
   - Principal Investigator
   - Researchers
   - Current Undergraduate
-  - Former Researcher
+  - Former Researchers
   - Former Undergraduate
-  - Visitors
 design:
   show_interests: false
   show_role: true
