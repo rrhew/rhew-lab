@@ -9,6 +9,6 @@ image:
 <!--more-->
 
 
-No longer a Waxing Gibbous Professor, he is simply over the moon.
+Previously a Waxing Gibbous Professor, he has advanced to Full
 
 PHOTO: UC Berkeley Feb 21, 2023, 6:47 p.m. Facing west towards Memorial Glade.  Venus and Jupiter visible above the moon.  
