@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Spring 2024 - present)
+role: undergraduate (Spring 2024 semester)
 
 avatar_filename: sryu.jpg
 
