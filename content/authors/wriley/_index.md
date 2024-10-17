@@ -1,3 +1,13 @@
+---
+title: William Riley
+# Username (this should match the folder name)
+authors:
+- wriley
+# Is this the primary user of the site?
+superuser: false
+role: graduate student (2024-present)
+avatar_filename: wriley.jpg
+
 # Organizations/Affiliations
 organizations:
   - name: University of California, Berkleey
