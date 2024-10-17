@@ -49,7 +49,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Researchers
+- Former Researcher
 ---
 
 Md. Anwar Khan received his PhD in Atmospheric Chemistry from the University of Bristol, UK in 2008 and joined our research group as a post-doctoral research fellow from 2009-2011. During his post-doctoral research, Anwar worked on development of instrumentation to measure reduced sulfur gases, conducted an impressive 12 month study to measure methyl halide and chloroform emissions from a peatland pasture dominated by the invasive perennial pepperweed, and conducted a study measuring methyl halide and chloroform emissions from a rice paddy converted from a peatland pasture.    
