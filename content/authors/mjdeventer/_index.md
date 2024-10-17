@@ -56,7 +56,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Former Researchers
 ---
 
 M. Julian Deventer received his PhD from the University of Muester in 2014 and joined our research group as a post-doctoral research fellow from 2015 to 2017, before working as a post-doctoral researcher at the University of Minnesota. He is currently a research scientist in Hamburg, Germany.
