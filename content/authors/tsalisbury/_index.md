@@ -50,4 +50,4 @@ user_groups:
 
 Tiana joined the Atmospheric Biogeochemistry laboratory as part of the URAP Program in September 2024.
 
-She has been busy learning how to analyze air samples via Gas Chromatography-Mass Spectrometry, evacuate air canisters, collect air samples, and tighten (but not overtighten!) Swageloks.  
+She has been busy learning how to analyze air samples via Gas Chromatography-Mass Spectrometry, evacuate air canisters, collect air samples, and general gas lab maintenance.  
