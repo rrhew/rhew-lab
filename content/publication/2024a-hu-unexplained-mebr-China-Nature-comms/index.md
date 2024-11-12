@@ -18,7 +18,7 @@ authors:
   - R. Prinn
   - X. Fang
 
-publication: "*Nature Communications* **15**, 8901, [https://doi.org/10.1038/s43247-023-00990-4]"
+publication: "*Nature Communications* **15**, 8901,(https://www.nature.com/articles/s43247-023-00990-4)"
 
 summary: "Large emissions of MeBr are occurring on China's east coast, where the density of industry is located"
 
