@@ -4,7 +4,7 @@ emissions arising from underestimated or unidentified emissions sources. This st
 ozone depletion, with implications for the Montreal Protocol.
 
 slides: null
-url_pdf: https://www.nature.com/articles/s43247-023-00990-4](https://doi.org/10.1038/s41467-024-53188-3  )
+url_pdf: https://www.nature.com/articles/s43247-023-00990-4 
 
 publication_types:
   - "2"
