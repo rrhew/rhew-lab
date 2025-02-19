@@ -1,5 +1,5 @@
 ---
-title: Paper published on CH<sub>3</sub>Br emissions in China 
+title: Paper published on CH3Br emissions in China 
 date: 2024-10-16
 image:
   focal_point: "top"
