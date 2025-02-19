@@ -31,7 +31,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2024-08-24T00:00:00Z"
 
-authors: [Prof. Rhew]
+authors: [Dr. Robert Rhew and Dr. Tina Mendez]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -60,9 +60,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-### Note for Fall 2023: Tuesday classes are 1 hour, Thursdays are 2 hours.   
+### Note for Fall 2024: Class capped at just above 200 students
 
-- **Prior offerings** Sp2005, Sp2006, Sp2009, Sp2013, Fa2014, Sp2017, Fa2019, Sp2022
-- **Optional Textbook** [Principles of Terrestrial Ecosystem Ecology](https://link.springer.com/book/10.1007/978-1-4419-9504-9), 2nd edition, F. Stuart Chapin III, Pamela Matson, Peter Vitousek. Springer, 2012.  
-- **Required Textbook** [Biogeochemistry: An analysis of global change (4th ed)](https://www.elsevier.com/books/biogeochemistry/schlesinger/978-0-12-814608-8), W.H. Schlesinger, Emily Bernhardt, Elsevier, 2020.  
+- **Prior offerings** Every semester this course is co-taught by 2 ESPM professors
+- **Required Textbook** *The Earth System* by J. F. Kasting, L.R. Kump, and R.G. Crane (4th ed., 2022)  
 - **Additional readings** will be posted on bcourses.
