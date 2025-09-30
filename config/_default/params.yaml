@@ -24,18 +24,26 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: rrhew@berkeley.edu
-phone: no phone
-address:
-  street: mail to- 508 McCone Hall, Department of Geography
-  city: Berkeley
+email: rcrhew@ucsd.edu
+phone: (858)534-xxxx (xxxx = 2599)
+address (regular mail):
+  street: regular mail:  UCSD/SIO, 9500 Gilman Dr. #0244 
+  city: La Jolla
   region: CA
-  postcode: '94720-4740'
+  postcode: '92093-0244'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.874175'  #  37°52'27.03"N
-  longitude: '-122.25975'  # 122°15'35.10"W
+address (packages)
+  street: 7835 Trade St#100, 447 Vaughan Hall
+  city: San Diego
+  region: CA
+  postcode: '92121'
+  country: United States
+  country_code: US
+
+#coordinates:
+#  latitude: '37.874175'  #  37°52'27.03"N
+#  longitude: '-122.25975'  # 122°15'35.10"W
 # directions: Take stairs or elevator to the 5th floor
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
