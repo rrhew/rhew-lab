@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Fall 2024 - present)
+role: undergraduate (Fall 2024 - Spring 2025)
 avatar_filename: tsalisbury.jpg
 
 # Organizations/Affiliations
@@ -18,7 +18,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Tiana Salisbury, B.S. Chemistry (2027 exp), University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2024- present).   
+bio: Tiana Salisbury, B.S. Chemistry (2027 exp), University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2024- Spring 2025).   
 
 interests:
   - Chemistry
@@ -45,7 +45,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Tiana joined the Atmospheric Biogeochemistry laboratory as part of the URAP Program in September 2024.
