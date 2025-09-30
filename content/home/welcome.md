@@ -27,10 +27,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Our **Atmospheric (Trace gas) Biogeochemistry Laboratory** quantifies sources and sinks 
+Our **Atmospheric Biogeochemistry and Composition Laboratory** quantifies sources and sinks 
 of environmentally important trace gases, determines the biological and 
 environmental controls on those fluxes, identifies the biochemical and abiotic 
-mechanisms involved, and assesses impacts of land use and climate change on emissions.  
+mechanisms involved, and assesses impacts of land use and climate change on emissions. The ABC lab is now associated with the [AGAGE](https://www-air.larc.nasa.gov/missions/agage/) research program to measure background trace gases in the global atmosphere.   
 
 Trace gases are central to global environmental issues (climate change, stratospheric ozone depletion and the atmospheric oxidation capacity) as well as regional air pollution (urban smog and acid rain).  They also serve as indicators and regulators of ecosystem function and health (net primary production, ecosystem stress, plant communication).  
 
