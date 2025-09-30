@@ -36,33 +36,21 @@ Trace gases are central to global environmental issues (climate change, stratosp
 
 Our trace gas biogeochemistry research addresses questions at all of these scales, from mechanistic studies at the molecular scale, to fluxes measured at the plant to ecosystem scale, to an understanding of atmospheric sources and sinks at the global scale. Our recent work focuses on the biogeochemistry of halocarbons, hydrocarbons, and reduced sulfur compounds.  These are radiatively active compounds, either directly as greenhouse and/or ozone-depleting compounds, or indirectly through the production of ozone and/or aerosols.  This work is essential to understanding how these chemicals move and interact in the global environment, and this knowledge is a prerequisite to making sound policy decisions to protect ecosystem and human health.
 
-- [Department of Geography](https://geography.berkeley.edu)
-- [Department of Environmental Science, Policy & Management](https://ourenvironment.berkeley.edu)
-- [University of California, Berkeley](https://www.berkeley.edu)
-- [Berkeley Atmospheric Sciences Center](https://atmosphere.berkeley.edu)
+NEW: Rhew has merged his research program with the Advanced Global Atmospheric Gases Experiment (AGAGE), an international research program to monitor the trace gas composition of the global atmosphere, with an emphasis on the Montreal Protocol and non-CO_2 greenhouse gases.  
 
+- [Scripps Institution of Oceanography](https://scripps.ucsd.edu)
+- [University of California, San Diego](https://ucsd.edu/)
+- [Advanced Global Atmospheric Gases Experiment (AGAGE)](https://www-air.larc.nasa.gov/missions/agage/)
+- [Rhew's SIO website](https://scripps.ucsd.edu/profiles/rcrhew)
+
+  
 {{% callout note %}}
-Spring 2025 Office Hours: Wednesdays 1:30-3:30 p.m., in person or online. Book at least an hour in advance. Drop-ins welcome, based on availability.  
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3BdrWpy8NMlawwG3KOOqQQNE3g1Px0mudyYLY5OaVnWVI2-2Tar5TXfOXPpqDR4DNrliX16CXY?gv=true',
-      color: '#039BE5',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
+UPDATE FALL 2025:  Professor Rhew has moved from UC Berkeley to the Scripps Institution of Oceanography at UC San Diego.  
 {{% /callout %}}
 
 {{% callout note %}}
 Interested in joining our laboratory? 
-Undergraduates should apply through the [URAP (L&S)](https://research.berkeley.edu/urap/) or SPUR (CNR) programs. Prospective graduate students please email.
+Prospective Graduate Students
+PROGRAM AREAS (https://scripps.ucsd.edu/doctoral/program-areas)
+   Geochemistry and Marine Chemistry (https://scripps.ucsd.edu/doctoral/program-areas/marine-chemistry-geochemistry-mcg)
 {{% /callout %}}
