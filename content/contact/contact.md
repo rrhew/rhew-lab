@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: About the Atmospheric Biogeochemistry Lab
+title: About the Atmospheric Biogeochemistry and Composition Lab
 subtitle:
 
 content:
@@ -39,12 +39,10 @@ design:
     />
 </a>
 
-**Established:** 2003 
-
-**Department:** Geography 
-
+**2003-2025 UC BERKELEY:**  Department of Geography in McCone Hall
 **Laboratory facilities:** a 'wet' lab for treatment of soils and plant samples and field equipment, and a 'dry' gas lab consisting of a temperature controlled room housing multiple gas chromatography stations and equipment
 
-**Land acknowledgment statement:** The University of California at Berkeley sits on the territory of xučyun (Huichin), the ancestral and unceded land of the [Chochenyo-speaking Ohlone people](https://sogoreate-landtrust.com/shuumi-land-tax/), the successors of the sovereign Verona Band of Alameda County.  The Central Sierra Field Stations lie within the traditional/ancestral lands of the [Wahoe Tribe](https://washoetribe.us/aboutpage/4-Page-washoe-history).  The history of the Washoe (WA SHE SHU) tribe can be found [HERE](https://washoetribe.us/articleblogpage/735-Page-washoe-tribe-history-past-and-present). 
+**2025-PRESENT SCRIPPS INSTITUTION OF OCEANOGRAPHY**  New trace gas biogeochemistry laboratory under development
+**Laboratory facilities (planned):** a temperature controlled room housing 2 gas chromatographs and 1 laser-based instrument, incubation setups.  An additional 'wet' lab for treatment of soils and plant samples and sam
 
-**Equity, Inclusion, Diversity and Belonging:** Our lab group strongly believes in providing an environment that respects the diversity of the members of the group and the community within which we work. In order to thrive, all lab members must feel that their workplace, either on campus or in the field, are safe and welcoming places. Our lab has hosted many scholars who are underrepresented in the STEM disciplines, including women, first-gen, LGBTQ and BIPOC scholars. We can and will improve support for our scholars, in the classroom and in the field, by adopting practices that improve inclusivity and that seek to account for historical disparities in access and opportunity. 
+**Belonging:** Our lab group strongly believes in providing an environment that respects the diversity of the members of the group and the community within which we work. In order to thrive, all lab members must feel that their workplace, either on campus or in the field, are safe and welcoming places. Our lab has hosted many scholars who are underrepresented in the STEM disciplines, including women, first-gen, LGBTQ and BIPOC scholars. We can and will improve support for our scholars, in the classroom and in the field, by adopting practices that improve inclusivity and that seek to account for historical disparities in access and opportunity. 
