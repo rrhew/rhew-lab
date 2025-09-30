@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: former undergraduate (Spring 2024 - Fall 2024)
+role: undergraduate (Spring 2024 - Fall 2024)
 
 avatar_filename: edvorchak.jpg
 
@@ -47,7 +47,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Ella joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program. She is currently working on air sampling, GC-MS analyses of air samples, building a flask evacuation line, and data analysis.    
