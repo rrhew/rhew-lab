@@ -45,7 +45,7 @@ NEW: Rhew has merged his research program with the Advanced Global Atmospheric G
 
   
 {{% callout note %}}
-UPDATE FALL 2025:  Professor Rhew has moved from UC Berkeley to the Scripps Institution of Oceanography at UC San Diego.  
+UPDATE FALL 2025: Professor Rhew has [joined the faculty](https://scripps.ucsd.edu/news/introducing-scripps-oceanographys-newest-faculty-members) at the Scripps Institution of Oceanography at UC San Diego! 
 {{% /callout %}}
 
 {{% callout note %}}
