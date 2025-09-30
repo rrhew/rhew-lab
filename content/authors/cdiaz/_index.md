@@ -23,7 +23,19 @@ bio: Charlie Diaz, B.Sc.(exp. 2026), Environmental Earth Science and Marine Scie
 
 interests:
   - robotics, environmental measurements.
-  
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:charlesdiaz@berkeley.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link:  [https://www.linkedin.com/in/robert-rhew-659985117](https://www.linkedin.com/in/charliebdiaz/)
+
+organizations:
+  - name: Robotics Projects
+    url: https://www.hackster.io/charlesdiaz
+    
 education:
   courses:
    - course: BSc Environmental Earth Science and Marine Science
