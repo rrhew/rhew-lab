@@ -36,7 +36,7 @@ Trace gases are central to global environmental issues (climate change, stratosp
 
 Our trace gas biogeochemistry research addresses questions at all of these scales, from mechanistic studies at the molecular scale, to fluxes measured at the plant to ecosystem scale, to an understanding of atmospheric sources and sinks at the global scale. Our recent work focuses on the biogeochemistry of halocarbons, hydrocarbons, and reduced sulfur compounds.  These are radiatively active compounds, either directly as greenhouse and/or ozone-depleting compounds, or indirectly through the production of ozone and/or aerosols.  This work is essential to understanding how these chemicals move and interact in the global environment, and this knowledge is a prerequisite to making sound policy decisions to protect ecosystem and human health.
 
-NEW: Rhew has merged his research program with the Advanced Global Atmospheric Gases Experiment (AGAGE), an international research program to monitor the trace gas composition of the global atmosphere, with an emphasis on the Montreal Protocol and non-CO~2~ greenhouse gases.  
+NEW: Rhew has merged his research program with the Advanced Global Atmospheric Gases Experiment (AGAGE), an international research program to monitor the trace gas composition of the global atmosphere, with an emphasis on the Montreal Protocol and non-CO<sub>2</sub> greenhouse gases.  
 
 - [Scripps Institution of Oceanography](https://scripps.ucsd.edu)
 - [University of California, San Diego](https://ucsd.edu/)
