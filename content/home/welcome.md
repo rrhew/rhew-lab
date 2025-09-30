@@ -36,7 +36,7 @@ Trace gases are central to global environmental issues (climate change, stratosp
 
 Our trace gas biogeochemistry research addresses questions at all of these scales, from mechanistic studies at the molecular scale, to fluxes measured at the plant to ecosystem scale, to an understanding of atmospheric sources and sinks at the global scale. Our recent work focuses on the biogeochemistry of halocarbons, hydrocarbons, and reduced sulfur compounds.  These are radiatively active compounds, either directly as greenhouse and/or ozone-depleting compounds, or indirectly through the production of ozone and/or aerosols.  This work is essential to understanding how these chemicals move and interact in the global environment, and this knowledge is a prerequisite to making sound policy decisions to protect ecosystem and human health.
 
-NEW: Rhew has merged his research program with the Advanced Global Atmospheric Gases Experiment (AGAGE), an international research program to monitor the trace gas composition of the global atmosphere, with an emphasis on the Montreal Protocol and non-CO_2 greenhouse gases.  
+NEW: Rhew has merged his research program with the Advanced Global Atmospheric Gases Experiment (AGAGE), an international research program to monitor the trace gas composition of the global atmosphere, with an emphasis on the Montreal Protocol and non-CO~2~ greenhouse gases.  
 
 - [Scripps Institution of Oceanography](https://scripps.ucsd.edu)
 - [University of California, San Diego](https://ucsd.edu/)
@@ -50,7 +50,9 @@ UPDATE FALL 2025:  Professor Rhew has moved from UC Berkeley to the Scripps Inst
 
 {{% callout note %}}
 Interested in joining our laboratory? 
-Prospective Graduate Students
-PROGRAM AREAS (https://scripps.ucsd.edu/doctoral/program-areas)
-   Geochemistry and Marine Chemistry (https://scripps.ucsd.edu/doctoral/program-areas/marine-chemistry-geochemistry-mcg)
+For Prospective Graduate Students, note that the Department of Scripps Institution of Oceanography is organized into three academic programs:
+[PROGRAM AREAS](https://scripps.ucsd.edu/doctoral/program-areas)  
+Our lab is in the GEO curricular groups, specifically MCG [Marine Chemistry and Geochemistry](https://scripps.ucsd.edu/doctoral/program-areas/marine-chemistry-geochemistry-mcg)  
+
+We are looking for graduate students who are interested in instrument development to measure trace gases at the part-per-billion to part-per-trillion level, and using advanced instrumentation to address unknowns about Earth's atmospheric composition and biogeochemical cycles.
 {{% /callout %}}
