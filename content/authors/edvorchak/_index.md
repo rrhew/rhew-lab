@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Spring 2024 - present)
+role: former undergraduate (Spring 2024 - Fall 2024)
 
 avatar_filename: edvorchak.jpg
 
