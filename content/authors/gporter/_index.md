@@ -52,5 +52,3 @@ user_groups:
 Genevieve (Gigi) joined the Atmospheric Biogeochemistry laboratory as part of the URAP Program between September 2023 until August 2024 as an Environmental Earth Science and French double major in her senior year. She piloted her own project the Mobile Atmospheric Gas Measurement Analyzer (MAGMA) which aimed to quantify methane and carbon dioxide emissions from the retired landfill converted park, Cesar Chavez Park. The device takes gas measurements alongside GPS coordinates and then combines them into a Google Earth file that displays the physical locations of elevated gas concentrations.
 
 Genevieve has also aided other projects such as the Fluctuating Redox in Soil Core (FRISC) experiment through fieldwork excursions and the running of gas samples through the GCMS. She is interested in how GIS and isotopic analysis can help us further constrain the methane budget. She graduated from Berkeley in May 2024 is looking to start a PhD program in Atmospheric or Environmental Science in 2025 to continue her research. 
-
-Outside of work: "In my free time I like to rock climb and play ukulele!"
