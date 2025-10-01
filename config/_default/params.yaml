@@ -25,25 +25,24 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: rcrhew@ucsd.edu
-phone: (858)534-xxxx (xxxx = 2599)
-address:
-  street: regular mail:  UCSD/SIO, 9500 Gilman Dr. #0244 
-  city: La Jolla
-  region: CA
-  postcode: '92093-0244'
-  country: United States
-  country_code: US
-address:
-  street: 7835 Trade St#100, 447 Vaughan Hall
-  city: San Diego
-  region: CA
-  postcode: '92121'
-  country: United States
-  country_code: US
+phone: (858)534-2599
+addresses:
+  - street: "UCSD/SIO, 9500 Gilman Dr. #0244"
+    city: La Jolla
+    region: CA
+    postcode: "92093-0244"
+    country: United States
+    country_code: US
+  - street: "7835 Trade St #100, 447 Vaughan Hall"
+    city: San Diego
+    region: CA
+    postcode: "92121"
+    country: United States
+    country_code: US
 
 coordinates:
-  latitude: '32.8681'      #'37.874175' #  37°52'27.03"N
-  longitude: '-117.2503'   #'-122.25975'  # 122°15'35.10"W
+  latitude: 32.8681      #'37.874175' #  37°52'27.03"N
+  longitude: -117.2503   #'-122.25975'  # 122°15'35.10"W
 # directions: Take stairs or elevator to the 5th floor
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
