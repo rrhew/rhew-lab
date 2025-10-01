@@ -8,21 +8,24 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Fall 2023 - present)
+role: "undergraduate (Fall 2023 - present)"
 
 avatar_filename: cdiaz.jpg
 
 # Organizations/Affiliations
 organizations:
   - name: UC Berkeley
-    url: ""
-
+    url: "https://www.berkeley.edu"
+  - name: Robotics Projects
+    url: "https://www.hackster.io/charlesdiaz"
+    
 # Short bio (displayed in user profile at end of posts)
 
-bio: Charlie Diaz, B.Sc.(exp. 2026), Environmental Earth Science and Marine Science, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2023- present).   
+bio: "Charlie Diaz, B.Sc.(exp. 2026), Environmental Earth Science and Marine Science, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Sept 2023- present)"
 
 interests:
-  - robotics, environmental measurements.
+  - robotics
+  - environmental measurements.
 
 social:
   - icon: envelope
@@ -30,11 +33,9 @@ social:
     link: 'mailto:charlesdiaz@berkeley.edu'
   - icon: linkedin
     icon_pack: fab
-    link:  [https://www.linkedin.com/in/robert-rhew-659985117](https://www.linkedin.com/in/charliebdiaz/)
+    link: "https://www.linkedin.com/in/robert-rhew-659985117](https://www.linkedin.com/in/charliebdiaz/"
 
-organizations:
-  - name: Robotics Projects
-    url: https://www.hackster.io/charlesdiaz
+
     
 education:
   courses:
