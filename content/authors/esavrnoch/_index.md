@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Spring 2025 - present)
+role: Undergraduate Research Apprentice (Spring 2025), Research Assistant (Summer 2025)"
 
 avatar_filename: esavrnoch.jpg
 
