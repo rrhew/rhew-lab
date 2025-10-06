@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: SPUR Undergradate Research (Spring 2025)
+role: "SPUR Undergradate Research (Spring 2025)"
 
 avatar_filename: sagarwal.jpg
 
