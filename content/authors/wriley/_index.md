@@ -5,12 +5,12 @@ authors:
 - wriley
 # Is this the primary user of the site?
 superuser: false
-role: graduate student (2024-present)
+role: graduate student (Fall 2024-Summer 2025)
 avatar_filename: wriley.jpg
 
 # Organizations/Affiliations
 organizations:
-  - name: University of California, Berkleey
+  - name: University of California, Berkeley
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,4 +44,4 @@ user_groups:
 
 William Riley completed his B.A. in 2022 from Vassar College. During his undergraduate years, he conducted biogeochemistry resesarch on Hudson River Foraminifera in the laboratory of Dr. Laura Haynes.  He also was an Ernest Hollings Undergraduate Scholar (NOAA) studying carbon sequestration in coastal Alaskan peat bogs on the Kenai Peninsula. He also conducted ocean biogeochemistry research in Belize, working on coral reefs and impact of sargassum on seawater quality.  After graduation, he worked as an environmental scientist for Athneica Environmental Service on projects involving residual lead paint in public housing.  
 <p>
-In Fall 2024, Will joined UC Berkeley's ESPM Department as a graduate student.  He is currently working in the atmospheric biogeochemistry laboratory on several projects, including methane fluxes in wetlands, atmospheric halocarbon measurements, and a new project on soil uptake of trace gases.  
+In Fall 2024, Will joined UC Berkeley's ESPM Department as a graduate student.  He worked in the atmospheric biogeochemistry laboratory on several projects, including methane fluxes in wetlands, atmospheric halocarbon measurements, and a new project on soil uptake of hydrogen. The ABC lab bids a fond farewell to Will for the Fall of 2025. Will is continuing his graduate studies in ESPM with Professor Matthew Potts, while the ABC lab moves to UCSD."
