@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: undergraduate (Spring 2025)
+role: SPUR Undergraduate Research(Spring 2025)
 
 avatar_filename: cloverme.jpg
 
