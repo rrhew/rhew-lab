@@ -33,7 +33,7 @@ social:
     link: 'mailto:charlesdiaz@berkeley.edu'
   - icon: linkedin
     icon_pack: fab
-    link: "https://www.linkedin.com/in/robert-rhew-659985117](https://www.linkedin.com/in/charliebdiaz/"
+    link: "https://www.linkedin.com/in/charliebdiaz/"
 
 
     
