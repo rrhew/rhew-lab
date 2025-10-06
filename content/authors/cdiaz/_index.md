@@ -8,7 +8,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-role: "undergraduate (Fall 2023 - present)"
+role: "undergraduate research apprentice program (Fall 2023 - Spring 2025), research assistant (Summer 2025)"
 
 avatar_filename: cdiaz.jpg
 
