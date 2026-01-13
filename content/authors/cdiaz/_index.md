@@ -51,7 +51,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Charlie joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program.  He is currently working on development of a simulated tidally influenced peatland and measurement of trace gases under variable redox conditions.  
