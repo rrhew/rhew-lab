@@ -25,7 +25,7 @@ social:
     link: 'mailto:rcrhew@ucsd.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Z92opqQAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=dWMsJigAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link:  https://www.linkedin.com/in/robert-rhew-659985117
