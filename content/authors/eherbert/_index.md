@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Ella Herbert, B.Sc.(exp. 2026), Environmental Science, University of California at Berkeley. URAP researcher in Atmospheric Biogeochemistry Lab (Jan 2025- July 2025).   
+bio: Ella Herbert, B.Sc.(exp. 2027), Environmental Science, University of California at Berkeley. RCNR SPUR researcher in Atmospheric Biogeochemistry Lab (Jan 2025- June 2025).   
 
 interests:
   - trace gas biogeochemistry and field work
@@ -28,7 +28,7 @@ education:
   courses:
    - course: BSc  
      institution: University of California, Berkeley
-     year: 2026 (exp)
+     year: 2027 (exp)
       
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
