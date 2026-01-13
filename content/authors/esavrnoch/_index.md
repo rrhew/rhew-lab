@@ -38,7 +38,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Emily joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program. Among her many activities, she participated in the Tonzi Ranch field outing, conducted measurements on the GC-MS, helped pack up the laboratory, and did the methane transect to San Diego. 
