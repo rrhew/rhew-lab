@@ -38,7 +38,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Selena joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program.  She is currently working on instrument development and lab based measurements of trace gases
