@@ -11,7 +11,7 @@ authors:
 role: Professor
 avatar_filename: avatar.png
 
-bio: Professor Rhew is the Principal Investigator of the UC Berkeley Atmospheric Biogeochemistry and Composition Lab
+bio: Professor Rhew was the Principal Investigator of the UC Berkeley Atmospheric Biogeochemistry Lab, now the Scripps Institution of Oceanography Atmospheric Biogeochemistry and Composition Lab.  
 
 interests:
   - Trace gas biogeochemistry
