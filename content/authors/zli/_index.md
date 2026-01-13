@@ -38,7 +38,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 James joined the Atmospheric Biogeochemistry Laboratory as part of the URAP Program. Among his many activities, he participated in the Tonzi Ranch field outing, conducted measurements on the GC-MS, helped pack up the laboratory, and worked on methane emissions from former landfill sites. 
