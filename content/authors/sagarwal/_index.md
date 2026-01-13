@@ -38,7 +38,7 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Undergraduate
+- Former Undergraduate
 ---
 
 Sia joined the Atmospheric Biogeochemistry Laboratory as part of the RCNR SPUR Program. Among her many activities, she participated in the Tonzi Ranch field outing, conducted measurements on the GC-MS, and worked on CO2 sensor instrumentation. 
