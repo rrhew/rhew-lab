@@ -52,8 +52,9 @@ UPDATE FALL 2025: Professor Rhew has [joined the faculty](https://scripps.ucsd.e
 Interested in joining our laboratory? 
 For Prospective Graduate Students, note that the Department of Scripps Institution of Oceanography is organized into three academic programs:
 [PROGRAM AREAS](https://scripps.ucsd.edu/doctoral/program-areas)  
-Our lab is in the Climate-Ocean-Atmosphere Program, specifically the [Climate Sciences (CS)](https://scripps.ucsd.edu/doctoral/program-areas/climate-sciences-cs) curricular group.
-We are also part of the GEO curricular group, specifically MCG [Marine Chemistry and Geochemistry](https://scripps.ucsd.edu/doctoral/program-areas/marine-chemistry-geochemistry-mcg)  
+Our lab is in the Climate-Ocean-Atmosphere Program, specifically the [Climate Sciences (CS)](https://scripps.ucsd.edu/doctoral/program-areas/climate-sciences-cs) curricular group. <br>
+We are also part of the GEO curricular group, specifically MCG [Marine Chemistry and Geochemistry](https://scripps.ucsd.edu/doctoral/program-areas/marine-chemistry-geochemistry-mcg) <br>
+When applying for a PhD, decide which curricular group you most closely identify with, and select the professors of interest in your application.  
 
 We are looking for graduate students who are interested in instrument development to measure trace gases at the part-per-billion to part-per-trillion level, and using advanced instrumentation to address unknowns about Earth's atmospheric composition and biogeochemical cycles.
 {{% /callout %}}
