@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: 20210812_berkeleysky.jpg
+    image: 251202_sio_sunset.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
