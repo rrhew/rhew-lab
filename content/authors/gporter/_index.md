@@ -46,7 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Researchers
+- Former Undergraduate
 ---
 
 Genevieve (Gigi) joined the Atmospheric Biogeochemistry laboratory as part of the URAP Program between September 2023 until August 2024 as an Environmental Earth Science and French double major in her senior year. She piloted her own project the Mobile Atmospheric Gas Measurement Analyzer (MAGMA) which aimed to quantify methane and carbon dioxide emissions from the retired landfill converted park, Cesar Chavez Park. The device takes gas measurements alongside GPS coordinates and then combines them into a Google Earth file that displays the physical locations of elevated gas concentrations.
