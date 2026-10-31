@@ -45,7 +45,7 @@ NEW: Rhew has merged his research program with the Advanced Global Atmospheric G
 
   
 {{% callout note %}}
-UPDATE FALL 2025: Professor Rhew has [joined the faculty](https://scripps.ucsd.edu/news/introducing-scripps-oceanographys-newest-faculty-members) at the Scripps Institution of Oceanography at UC San Diego! 
+UPDATE FALL 2026: Yes, we have an opening for a Ph.D. student to pursue Trace Gas Biogeochemistry research and/or Trace gas instrument development research. Applications are due December 2, 2026 [SIO GRADUATE APPLICATIONS](https://scripps.ucsd.edu/doctoral)
 {{% /callout %}}
 
 {{% callout note %}}
